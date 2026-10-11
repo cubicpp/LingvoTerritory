@@ -1,0 +1,2444 @@
+{
+  "北京": {
+    "mcp_id": "北京",
+    "mcp_name": "北京話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "濟南": {
+    "mcp_id": "濟南",
+    "mcp_name": "濟南話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "廣靈": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "官話"
+  },
+  "宿州市": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "官話"
+  },
+  "渦陽": {
+    "mcp_id": "渦陽",
+    "mcp_name": "渦陽話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "臨泉": {
+    "mcp_id": "臨泉",
+    "mcp_name": "臨泉話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "穎上": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "官話"
+  },
+  "蕭縣": {
+    "mcp_id": "蕭縣",
+    "mcp_name": "蕭縣話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "蚌埠市": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "官話"
+  },
+  "鳳陽": {
+    "mcp_id": "鳳陽",
+    "mcp_name": "鳳陽話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "壽縣": {
+    "mcp_id": "壽縣",
+    "mcp_name": "壽縣話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "霍州(霍縣)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "官話"
+  },
+  "臨汾": {
+    "mcp_id": "安澤秦壁",
+    "mcp_name": "安澤秦壁林州話",
+    "match_type": "partial",
+    "group": "官話"
+  },
+  "聞喜": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "官話"
+  },
+  "吉縣": {
+    "mcp_id": "吉縣",
+    "mcp_name": "吉縣話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "新絳": {
+    "mcp_id": "新絳",
+    "mcp_name": "新絳話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "運城": {
+    "mcp_id": "運城",
+    "mcp_name": "運城話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "永濟": {
+    "mcp_id": "永濟",
+    "mcp_name": "永濟話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "萬榮": {
+    "mcp_id": "萬榮羅池鉅野話",
+    "mcp_name": "萬榮羅池鉅野話",
+    "match_type": "partial",
+    "group": "官話"
+  },
+  "西安": {
+    "mcp_id": "西安",
+    "mcp_name": "西安話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "武昌": {
+    "mcp_id": "武昌",
+    "mcp_name": "老派武昌話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "桂林(臨桂)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "官話"
+  },
+  "柳州(雒容)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "官話"
+  },
+  "懷遠": {
+    "mcp_id": "懷遠",
+    "mcp_name": "懷遠話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "天長": {
+    "mcp_id": "天長",
+    "mcp_name": "天長話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "淮南": {
+    "mcp_id": "淮南",
+    "mcp_name": "淮南話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "定遠": {
+    "mcp_id": "定遠",
+    "mcp_name": "定遠話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "滁縣(滁州)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "官話"
+  },
+  "滁州": {
+    "mcp_id": "滁州",
+    "mcp_name": "滁州話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "全椒": {
+    "mcp_id": "全椒",
+    "mcp_name": "全椒話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "合肥": {
+    "mcp_id": "合肥",
+    "mcp_name": "合肥話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "六安": {
+    "mcp_id": "六安",
+    "mcp_name": "六安話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "含山": {
+    "mcp_id": "含山",
+    "mcp_name": "含山話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "巢縣(巢湖)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "官話"
+  },
+  "當塗": {
+    "mcp_id": "當塗",
+    "mcp_name": "當塗話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "舒城": {
+    "mcp_id": "舒城萬佛湖",
+    "mcp_name": "舒城萬佛湖話",
+    "match_type": "partial",
+    "group": "官話"
+  },
+  "蕪湖": {
+    "mcp_id": "蕪湖",
+    "mcp_name": "蕪湖話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "無為": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "官話"
+  },
+  "桐城": {
+    "mcp_id": "桐城",
+    "mcp_name": "桐城話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "桐城(安徽省志)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "官話"
+  },
+  "宣城": {
+    "mcp_id": "寧國湖北話",
+    "mcp_name": "寧國湖北話",
+    "match_type": "partial",
+    "group": "官話"
+  },
+  "樅陽": {
+    "mcp_id": "樅陽",
+    "mcp_name": "樅陽話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "貴池": {
+    "mcp_id": "池州",
+    "mcp_name": "貴池話",
+    "match_type": "partial",
+    "group": "官話"
+  },
+  "青陽": {
+    "mcp_id": "青陽",
+    "mcp_name": "青陽話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "安慶": {
+    "mcp_id": "安慶",
+    "mcp_name": "安慶話",
+    "match_type": "exact",
+    "group": "官話"
+  },
+  "婁煩": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "晉語"
+  },
+  "太原": {
+    "mcp_id": "太原",
+    "mcp_name": "太原話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "清徐": {
+    "mcp_id": "徐溝",
+    "mcp_name": "徐溝話",
+    "match_type": "partial",
+    "group": "晉語"
+  },
+  "文水": {
+    "mcp_id": "文水",
+    "mcp_name": "文水話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "太谷": {
+    "mcp_id": "太谷",
+    "mcp_name": "太谷話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "祁縣": {
+    "mcp_id": "祁縣",
+    "mcp_name": "祁縣話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "平遙": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "晉語"
+  },
+  "孝義": {
+    "mcp_id": "孝義",
+    "mcp_name": "孝義話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "臨縣": {
+    "mcp_id": "臨縣",
+    "mcp_name": "臨縣話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "離石": {
+    "mcp_id": "離石",
+    "mcp_name": "離石話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "汾陽": {
+    "mcp_id": "汾陽",
+    "mcp_name": "汾陽話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "嵐縣": {
+    "mcp_id": "嵐縣",
+    "mcp_name": "嵐縣話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "石樓": {
+    "mcp_id": "石樓",
+    "mcp_name": "石樓話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "隰縣": {
+    "mcp_id": "隰縣",
+    "mcp_name": "隰縣話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "汾西": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "晉語"
+  },
+  "沁縣": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "晉語"
+  },
+  "平順": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "晉語"
+  },
+  "長治": {
+    "mcp_id": "長治",
+    "mcp_name": "長治(漢民)話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "長子": {
+    "mcp_id": "長子",
+    "mcp_name": "長子話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "高平": {
+    "mcp_id": "高平",
+    "mcp_name": "高平話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "陵川": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "晉語"
+  },
+  "朔州": {
+    "mcp_id": "平魯",
+    "mcp_name": "平魯話",
+    "match_type": "partial",
+    "group": "晉語"
+  },
+  "代縣": {
+    "mcp_id": "代縣東首",
+    "mcp_name": "代縣東首話",
+    "match_type": "partial",
+    "group": "晉語"
+  },
+  "五寨": {
+    "mcp_id": "五寨",
+    "mcp_name": "五寨話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "五台": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "晉語"
+  },
+  "忻州": {
+    "mcp_id": "河曲",
+    "mcp_name": "河曲話",
+    "match_type": "partial",
+    "group": "晉語"
+  },
+  "天鎮": {
+    "mcp_id": "天鎮",
+    "mcp_name": "天鎮話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "大同": {
+    "mcp_id": "大同",
+    "mcp_name": "大同話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "山陰": {
+    "mcp_id": "山陰",
+    "mcp_name": "山陰話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "平定": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "晉語"
+  },
+  "和順": {
+    "mcp_id": "和順橫嶺",
+    "mcp_name": "和順橫嶺話",
+    "match_type": "partial",
+    "group": "晉語"
+  },
+  "晉城": {
+    "mcp_id": "沁水城東",
+    "mcp_name": "沁水端氏城東話",
+    "match_type": "partial",
+    "group": "晉語"
+  },
+  "陽城": {
+    "mcp_id": "陽城",
+    "mcp_name": "陽城話",
+    "match_type": "exact",
+    "group": "晉語"
+  },
+  "丹陽後巷童家橋": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "靖江": {
+    "mcp_id": "靖江",
+    "mcp_name": "靖江話（靖江老岸話）",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "丹陽": {
+    "mcp_id": "丹陽",
+    "mcp_name": "丹陽話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "江陰": {
+    "mcp_id": "江陰",
+    "mcp_name": "江陰閒話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "常州": {
+    "mcp_id": "常州",
+    "mcp_name": "常州話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "金壇西崗": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "溧陽": {
+    "mcp_id": "溧陽",
+    "mcp_name": "溧陽話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "宜興": {
+    "mcp_id": "宜興",
+    "mcp_name": "宜興話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "常熟": {
+    "mcp_id": "常熟古里",
+    "mcp_name": "常熟古里説話",
+    "match_type": "partial",
+    "group": "吳語"
+  },
+  "無錫": {
+    "mcp_id": "無錫",
+    "mcp_name": "無錫話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "寶山霜草墩": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "寶山羅店": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "崑山": {
+    "mcp_id": "崑山",
+    "mcp_name": "崑山閒話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "蘇州": {
+    "mcp_id": "蘇州",
+    "mcp_name": "蘇州閒話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "蘇州(當代吳語)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "上海": {
+    "mcp_id": "上海",
+    "mcp_name": "上海閒話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "南匯周浦": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "松江": {
+    "mcp_id": "松江",
+    "mcp_name": "松江閒話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "吳江黎里": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "吳江盛澤": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "嘉興": {
+    "mcp_id": "嘉興",
+    "mcp_name": "嘉興閒話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "上海(三林塘)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "湖州雙林": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "杭州": {
+    "mcp_id": "杭州",
+    "mcp_name": "杭州話語",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "餘姚": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "紹興": {
+    "mcp_id": "紹興稽東",
+    "mcp_name": "紹興稽東説話",
+    "match_type": "partial",
+    "group": "吳語"
+  },
+  "諸暨王家井": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "嵊縣崇仁": {
+    "mcp_id": "嵊縣崇仁",
+    "mcp_name": "嵊縣崇仁話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "嵊縣太平": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "寧波": {
+    "mcp_id": "寧波",
+    "mcp_name": "寧波閒話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "黃岩": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "溫州": {
+    "mcp_id": "溫州",
+    "mcp_name": "溫州話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "金華": {
+    "mcp_id": "金華",
+    "mcp_name": "金華話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "永康": {
+    "mcp_id": "永康",
+    "mcp_name": "永康話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "雲和": {
+    "mcp_id": "雲和",
+    "mcp_name": "雲和話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "開化": {
+    "mcp_id": "開化",
+    "mcp_name": "開化腔",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "龍游": {
+    "mcp_id": "龍游",
+    "mcp_name": "龍游説話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "衢州": {
+    "mcp_id": "衢州",
+    "mcp_name": "衢州話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "常山": {
+    "mcp_id": "常山",
+    "mcp_name": "常山腔",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "江山(江山市)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "玉山": {
+    "mcp_id": "玉山",
+    "mcp_name": "玉山腔",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "遂昌": {
+    "mcp_id": "遂昌",
+    "mcp_name": "遂昌話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "廣豐(永豐鎮)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "浦城(南浦鎮城關話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "慶元": {
+    "mcp_id": "慶元",
+    "mcp_name": "慶元話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "宣州市裘公鄉": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "蕪湖縣": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "繁昌": {
+    "mcp_id": "繁昌",
+    "mcp_name": "繁昌話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "銅陵縣": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "南陵(仙坊話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "涇縣": {
+    "mcp_id": "涇縣",
+    "mcp_name": "涇縣話",
+    "match_type": "exact",
+    "group": "吳語"
+  },
+  "貴池市茅坦鄉": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "寧國市莊村鄉": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "貴池市灌口鄉": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "寧國市南極鄉": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "黃山區甘棠鎮": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "石台": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "吳語"
+  },
+  "旌德(安徽省志)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "徽語"
+  },
+  "績溪(安徽省志)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "徽語"
+  },
+  "黃山(湯口)(安徽省志)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "徽語"
+  },
+  "黟縣(安徽省志)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "徽語"
+  },
+  "祁門(安徽省志)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "徽語"
+  },
+  "屯溪(安徽省志)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "徽語"
+  },
+  "湖口": {
+    "mcp_id": "湖口",
+    "mcp_name": "湖口話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "星子": {
+    "mcp_id": "星子",
+    "mcp_name": "星子話",
+    "match_type": "exact",
+    "group": "其他土話"
+  },
+  "都昌": {
+    "mcp_id": "都昌",
+    "mcp_name": "都昌話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "修水": {
+    "mcp_id": "修水",
+    "mcp_name": "修水話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "永修": {
+    "mcp_id": "永修",
+    "mcp_name": "永修話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "平江(南江)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "贛語"
+  },
+  "安義": {
+    "mcp_id": "安義",
+    "mcp_name": "安義話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "奉新": {
+    "mcp_id": "奉新",
+    "mcp_name": "奉新話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "南昌": {
+    "mcp_id": "南昌",
+    "mcp_name": "南昌話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "高安": {
+    "mcp_id": "高安",
+    "mcp_name": "高安話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "宜豐": {
+    "mcp_id": "宜豐",
+    "mcp_name": "宜豐話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "上高": {
+    "mcp_id": "上高",
+    "mcp_name": "上高話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "萬載": {
+    "mcp_id": "萬載",
+    "mcp_name": "萬載話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "新余(沙土)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "贛語"
+  },
+  "醴陵(白兔潭)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "贛語"
+  },
+  "萍鄉": {
+    "mcp_id": "萍鄉",
+    "mcp_name": "萍鄉城關話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "永豐": {
+    "mcp_id": "永豐",
+    "mcp_name": "永豐話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "蓮花": {
+    "mcp_id": "蓮花",
+    "mcp_name": "蓮花話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "吉安": {
+    "mcp_id": "吉安",
+    "mcp_name": "吉安話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "吉水(螺田)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "贛語"
+  },
+  "永新": {
+    "mcp_id": "永新",
+    "mcp_name": "永新話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "泰和": {
+    "mcp_id": "泰和南溪",
+    "mcp_name": "泰和南溪話",
+    "match_type": "partial",
+    "group": "贛語"
+  },
+  "茶陵": {
+    "mcp_id": "茶陵",
+    "mcp_name": "茶陵話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "東鄉": {
+    "mcp_id": "東鄉",
+    "mcp_name": "東鄉話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "臨川": {
+    "mcp_id": "臨川",
+    "mcp_name": "臨川話（老派）",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "南城": {
+    "mcp_id": "南城",
+    "mcp_name": "南城話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "宜黃": {
+    "mcp_id": "宜黃",
+    "mcp_name": "宜黃話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "邵武": {
+    "mcp_id": "邵武",
+    "mcp_name": "邵武話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "黎川": {
+    "mcp_id": "黎川",
+    "mcp_name": "黎川話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "南豐": {
+    "mcp_id": "南豐",
+    "mcp_name": "南豐話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "泰寧(城關話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "贛語"
+  },
+  "建寧": {
+    "mcp_id": "建寧",
+    "mcp_name": "建寧話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "建寧(城關話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "贛語"
+  },
+  "樂平": {
+    "mcp_id": "樂平",
+    "mcp_name": "樂平話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "波陽": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "贛語"
+  },
+  "余干": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "贛語"
+  },
+  "橫峰": {
+    "mcp_id": "橫峰",
+    "mcp_name": "橫峰話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "弋陽": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "贛語"
+  },
+  "陽新(國和)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "贛語"
+  },
+  "岳西": {
+    "mcp_id": "岳西",
+    "mcp_name": "岳西話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "懷寧": {
+    "mcp_id": "懷寧",
+    "mcp_name": "懷寧高河話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "潛山": {
+    "mcp_id": "潛山",
+    "mcp_name": "潛山話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "太湖": {
+    "mcp_id": "太湖",
+    "mcp_name": "太湖話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "宿松(河塔)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "贛語"
+  },
+  "宿松(安徽省志)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "贛語"
+  },
+  "望江": {
+    "mcp_id": "望江",
+    "mcp_name": "望江話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "東至": {
+    "mcp_id": "東至",
+    "mcp_name": "東至話",
+    "match_type": "exact",
+    "group": "贛語"
+  },
+  "長沙": {
+    "mcp_id": "長沙",
+    "mcp_name": "老派長沙話",
+    "match_type": "exact",
+    "group": "湘語"
+  },
+  "雙峰": {
+    "mcp_id": "雙峰",
+    "mcp_name": "雙峰永豐(城關)話",
+    "match_type": "exact",
+    "group": "湘語"
+  },
+  "全州(縣城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "湘語"
+  },
+  "灌陽(文市)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "湘語"
+  },
+  "南安(溪美鎮)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "晉江(青陽鎮)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "漳州": {
+    "mcp_id": "漳州",
+    "mcp_name": "漳州話",
+    "match_type": "exact",
+    "group": "閩語"
+  },
+  "廈門": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "漳浦": {
+    "mcp_id": "漳浦",
+    "mcp_name": "漳浦話",
+    "match_type": "exact",
+    "group": "閩語"
+  },
+  "大田": {
+    "mcp_id": "大田",
+    "mcp_name": "大田前路話",
+    "match_type": "exact",
+    "group": "閩語"
+  },
+  "大田(前路話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "潮州(府城話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "潮州(漢語方音字匯)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "揭陽(榕城話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "澄海": {
+    "mcp_id": "澄海",
+    "mcp_name": "澄海話",
+    "match_type": "exact",
+    "group": "閩語"
+  },
+  "汕頭(汕頭市區)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "海豐(海城鎮)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "陸豐(內湖鎮)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "大埔元洲仔(香港新界福佬話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "電白(霞洞鎮黎話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "海康(雷城話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "仙游(城關話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "莆田": {
+    "mcp_id": "莆田",
+    "mcp_name": "莆田話",
+    "match_type": "exact",
+    "group": "閩語"
+  },
+  "古田": {
+    "mcp_id": "古田",
+    "mcp_name": "古田話",
+    "match_type": "exact",
+    "group": "閩語"
+  },
+  "馬祖": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "福州": {
+    "mcp_id": "福州",
+    "mcp_name": "福州話",
+    "match_type": "exact",
+    "group": "閩語"
+  },
+  "福清": {
+    "mcp_id": "福清",
+    "mcp_name": "福清話",
+    "match_type": "exact",
+    "group": "閩語"
+  },
+  "柘榮": {
+    "mcp_id": "柘榮富溪",
+    "mcp_name": "柘榮富溪話",
+    "match_type": "partial",
+    "group": "閩語"
+  },
+  "福安": {
+    "mcp_id": "福安",
+    "mcp_name": "福安話",
+    "match_type": "exact",
+    "group": "閩語"
+  },
+  "寧德": {
+    "mcp_id": "寧德",
+    "mcp_name": "寧德話",
+    "match_type": "exact",
+    "group": "閩語"
+  },
+  "崇安(崇城鎮城關話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "石陂": {
+    "mcp_id": "韶關石陂",
+    "mcp_name": "韶關湞江新韶石陂土話(虱婆聲)",
+    "match_type": "partial",
+    "group": "閩語"
+  },
+  "建陽(潭城鎮城關話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "松溪": {
+    "mcp_id": "松溪",
+    "mcp_name": "松溪事",
+    "match_type": "exact",
+    "group": "閩語"
+  },
+  "建甌": {
+    "mcp_id": "建甌",
+    "mcp_name": "建甌事",
+    "match_type": "exact",
+    "group": "閩語"
+  },
+  "建甌(市志)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "沙縣(城關話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "明溪(城關話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "三明(三元話)": {
+    "mcp_id": "三元",
+    "mcp_name": "三元話",
+    "match_type": "partial",
+    "group": "閩語"
+  },
+  "平南(上渡雅埠)(廣西漢語方言)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "中山(隆都)(珠江三角洲)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "中山(隆都)(廣東閩方言)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "中山(三鄉)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "曼谷(潮州話)": {
+    "mcp_id": "潮州",
+    "mcp_name": "潮州話",
+    "match_type": "partial",
+    "group": "閩語"
+  },
+  "將樂(城關話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "閩語"
+  },
+  "樂昌": {
+    "mcp_id": "樂昌長來",
+    "mcp_name": "樂昌長來話",
+    "match_type": "partial",
+    "group": "粵語"
+  },
+  "仁化": {
+    "mcp_id": "仁化聞韶",
+    "mcp_name": "仁化聞韶話",
+    "match_type": "partial",
+    "group": "粵語"
+  },
+  "韶關": {
+    "mcp_id": "南雄",
+    "mcp_name": "南雄城壁話",
+    "match_type": "partial",
+    "group": "粵語"
+  },
+  "曲江(馬壩)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "英德": {
+    "mcp_id": "英德",
+    "mcp_name": "英德附城話",
+    "match_type": "exact",
+    "group": "粵語"
+  },
+  "佛岡": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "清遠": {
+    "mcp_id": "清遠",
+    "mcp_name": "清遠話",
+    "match_type": "exact",
+    "group": "粵語"
+  },
+  "從化(城內)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "花縣(花山)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "桂平(縣城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "增城(縣城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "三水(西南)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "廣州": {
+    "mcp_id": "廣州",
+    "mcp_name": "廣州白話",
+    "match_type": "exact",
+    "group": "粵語"
+  },
+  "肇慶(高要)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "佛山(市區)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "番禺(市橋)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "雲浮(雲城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "南海(沙頭)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "高明(明城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "順德(大良)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "新田蕃田(圍頭話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "新興": {
+    "mcp_id": "新興",
+    "mcp_name": "新興新城話",
+    "match_type": "exact",
+    "group": "粵語"
+  },
+  "大埔三門仔(蜑家話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "大埔泰亨(圍頭話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "香港(市區)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "西貢蠔涌(圍頭話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "澳門(市區)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "寧明(縣城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "北海(廉州鎮)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "北海(南康鎮)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "北海(沙田鎮海邊話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "北海(市區白話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "北海(營盤鎮佤話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "百色(市內)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "南寧(市內)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "欽州(市內)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "北海(市內)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "鶴山(雅瑤)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "江門(白沙)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "新會(會城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "開平(赤坎)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "斗門(上橫水上話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "台山(台城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "斗門(斗門鎮)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "恩平(牛江)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "臨桂(五通)(土話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "融水(縣城)(土拐話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "連縣(清水)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "平樂(張家)(土話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "連山(布田)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "宜州(德勝)(百姓話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "陽山": {
+    "mcp_id": "陽山江英",
+    "mcp_name": "陽山江英涯聲",
+    "match_type": "partial",
+    "group": "粵語"
+  },
+  "蒙山(西河)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "信都(鋪門)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "懷集": {
+    "mcp_id": "懷集",
+    "mcp_name": "懷集下坊話",
+    "match_type": "exact",
+    "group": "粵語"
+  },
+  "百色(那畢)(平話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "廣寧": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "武宣(樟村)(伢話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "封開(南豐)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "四會": {
+    "mcp_id": "四會",
+    "mcp_name": "四會聲",
+    "match_type": "exact",
+    "group": "粵語"
+  },
+  "郁南(平台)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "賓陽(新橋)(賓陽話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "德慶": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "貴港(南江)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "南寧(沙井)(平話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "羅定": {
+    "mcp_id": "羅定赤三",
+    "mcp_name": "羅定赤三㑷古話",
+    "match_type": "partial",
+    "group": "粵語"
+  },
+  "北流(唐僚)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "橫縣(縣城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "扶綏(龍頭)(平話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "崇左(四排話)(平話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "博白(縣城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "靈山(縣城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "浦北(縣城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "中山(石岐)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "珠海(前山)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "東莞(莞城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "寶安(沙井)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "香港(新界錦田)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "曼谷(廣府話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "粵語"
+  },
+  "寧遠(清水橋)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "龍勝(紅瑤)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "靈川(三街)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "靈川(潭下)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "桂林(朝陽)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "桂林(雁山竹園)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "臨桂(兩江)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "永福(桃城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "陽朔(驥馬)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "臨桂(五通)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "融水(融水鎮)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "平樂(青龍)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "富寧(剝隘)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "百色(那畢)(平話音韻研究)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "馬山(喬利)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "田東(林逢)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "賓陽(蘆墟)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "南寧(亭子)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "橫縣(橫州)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "扶綏(龍頭)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "龍州(上龍)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "藤縣(藤城)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "鬱林(福綿)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "平話"
+  },
+  "從化(呂田)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "河源(廣東)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "揭西(廣東)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "梅縣(廣東)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "惠州(市區)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "東莞(清溪)(客贛方言調查報告)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "東莞(清溪)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "深圳(沙頭角)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "沙頭角麻雀嶺(香港新界)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "西貢荔枝莊(香港新界)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "沙田赤泥坪(香港新界)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "香港": {
+    "mcp_id": "香港",
+    "mcp_name": "香港粤語標準音",
+    "match_type": "exact",
+    "group": "客語"
+  },
+  "屯門楊小坑(香港新界)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "連南(廣東)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "翁源(廣東)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "寧化(福建)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "長汀(福建)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "武平(福建)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "秀篆(福建詔安)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "寧都(江西)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "寧都縣梅江鎮": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "石城": {
+    "mcp_id": "石城小松",
+    "mcp_name": "石城小松話",
+    "match_type": "partial",
+    "group": "客語"
+  },
+  "龍南": {
+    "mcp_id": "龍南",
+    "mcp_name": "龍南話",
+    "match_type": "exact",
+    "group": "客語"
+  },
+  "定南": {
+    "mcp_id": "定南",
+    "mcp_name": "定南話",
+    "match_type": "exact",
+    "group": "客語"
+  },
+  "全南": {
+    "mcp_id": "虔南",
+    "mcp_name": "虔南[全南]話",
+    "match_type": "partial",
+    "group": "客語"
+  },
+  "全南縣城廂鎮": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "于都": {
+    "mcp_id": "雩都",
+    "mcp_name": "雩都話",
+    "match_type": "partial",
+    "group": "客語"
+  },
+  "上猶縣社溪鄉江頭": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "贛縣(江西蟠龍鎮)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "上猶(江西)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "南康": {
+    "mcp_id": "南康",
+    "mcp_name": "南康蓉江聲",
+    "match_type": "exact",
+    "group": "客語"
+  },
+  "南康市蓉江鎮": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "大余(江西)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "安遠縣欣山鎮": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "安遠": {
+    "mcp_id": "安遠",
+    "mcp_name": "安遠話",
+    "match_type": "exact",
+    "group": "客語"
+  },
+  "修水縣黃沙橋鄉": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "澡溪": {
+    "mcp_id": "奉新澡溪",
+    "mcp_name": "奉新澡溪客家話",
+    "match_type": "partial",
+    "group": "客語"
+  },
+  "三都(江西銅鼓)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "銅鼓": {
+    "mcp_id": "銅鼓",
+    "mcp_name": "銅鼓永寧客家話",
+    "match_type": "exact",
+    "group": "客語"
+  },
+  "井岡山": {
+    "mcp_id": "寧岡",
+    "mcp_name": "寧岡話",
+    "match_type": "partial",
+    "group": "客語"
+  },
+  "信宜思賀": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "信宜錢排": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "陽春三甲": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "高州新垌": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "廉江石角": {
+    "mcp_id": "廉江石角",
+    "mcp_name": "廉江石角涯話",
+    "match_type": "exact",
+    "group": "客語"
+  },
+  "陽西塘口": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "電白沙琅": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "化州新安": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "廉江青平": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "梧州西河(蒙山)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "南寧馬山(片聯)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "玉林興業(高峰鄉)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "玉林容縣(縣底鎮縣底村)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "玉林北流(西埌鎮木棉村)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "玉林北流(塘岸)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "玉林福綿(橋鎮新沙村)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "玉林陸川(客贛方言調查報告)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "玉林陸川(橫山鄉四和村)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "玉林博白(新田鎮村頭村)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "中山(南蓢合水)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "曼谷(半山客話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "馬來西亞(柔佛士乃客家話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "客語"
+  },
+  "富川(七都話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "其他土話"
+  },
+  "富川(八都話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "其他土話"
+  },
+  "鍾山(公安)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "其他土話"
+  },
+  "賀州(九都話)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "其他土話"
+  },
+  "湖南(道縣)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "其他土話"
+  },
+  "江永城關(白水村)": {
+    "mcp_id": null,
+    "mcp_name": null,
+    "match_type": "new",
+    "group": "其他土話"
+  },
+  "豐陽": {
+    "mcp_id": "連州豐陽",
+    "mcp_name": "連州豐陽細蠻聲",
+    "match_type": "partial",
+    "group": "其他土話"
+  },
+  "西岸": {
+    "mcp_id": "連州西岸",
+    "mcp_name": "連州西岸大蠻聲",
+    "match_type": "partial",
+    "group": "其他土話"
+  },
+  "保安": {
+    "mcp_id": "連州保安",
+    "mcp_name": "連州保安聲",
+    "match_type": "partial",
+    "group": "其他土話"
+  },
+  "連州": {
+    "mcp_id": "連州",
+    "mcp_name": "連州阿B(ᴀt²⁴pi⁵⁵)聲",
+    "match_type": "exact",
+    "group": "其他土話"
+  }
+}

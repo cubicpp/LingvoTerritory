@@ -1,0 +1,52 @@
+{
+  "name": "lingvo-territory",
+  "version": "5.0.0",
+  "private": true,
+  "type": "module",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "package": "npm run build && electron-builder --win portable",
+    "data:fetch": "python scripts/fetch_mcpdict.py",
+    "data:preprocess": "python scripts/build_dialects.py",
+    "data:insights": "python scripts/build_insights.py && python scripts/verify_insights.py",
+    "visual:qa": "node scripts/visual_qa.mjs",
+    "data:all": "python scripts/fetch_mcpdict.py && python scripts/build_dialects.py && npm run data:insights"
+  },
+  "build": {
+    "appId": "cubicpp.lingvo-territory",
+    "productName": "LingvoTerritory",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*"
+    ],
+    "win": {
+      "target": "portable",
+      "signAndEditExecutable": false
+    }
+  },
+  "dependencies": {
+    "d3": "^7.9.0",
+    "echarts": "^5.6.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "sql.js": "^1.12.0",
+    "zustand": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.4.3",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "electron": "^42.1.0",
+    "electron-builder": "^26.8.1",
+    "playwright": "^1.60.0",
+    "typescript": "~5.6.2",
+    "vite": "^6.3.0"
+  }
+}

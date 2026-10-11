@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.tsbuildinfo
+data_raw/
+*.pyc
+__pycache__/
+.DS_Store
+release/
+electron/
+report/
+/.playwright-mcp/
+/vite-dev*.log

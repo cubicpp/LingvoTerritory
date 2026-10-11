@@ -1,0 +1,4548 @@
+{
+  "groupStats": {
+    "totalPoints": 2972,
+    "totalGroups": 15,
+    "groups": [
+      {
+        "broad": "官话",
+        "count": 1138,
+        "geoSpanKm": 6481.5,
+        "topProvinces": [
+          {
+            "name": "四川",
+            "count": 126
+          },
+          {
+            "name": "山東",
+            "count": 97
+          },
+          {
+            "name": "江蘇",
+            "count": 87
+          },
+          {
+            "name": "湖北",
+            "count": 86
+          },
+          {
+            "name": "甘肅",
+            "count": 78
+          }
+        ],
+        "avgCharCoverage": 83.6,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 4.32
+      },
+      {
+        "broad": "粤语",
+        "count": 268,
+        "geoSpanKm": 4149.2,
+        "topProvinces": [
+          {
+            "name": "廣東",
+            "count": 118
+          },
+          {
+            "name": "粵語",
+            "count": 73
+          },
+          {
+            "name": "廣西",
+            "count": 70
+          },
+          {
+            "name": "澳門",
+            "count": 3
+          },
+          {
+            "name": "海南",
+            "count": 2
+          }
+        ],
+        "avgCharCoverage": 0.0,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 8.28
+      },
+      {
+        "broad": "客家话",
+        "count": 239,
+        "geoSpanKm": 4270.2,
+        "topProvinces": [
+          {
+            "name": "客語",
+            "count": 53
+          },
+          {
+            "name": "廣東",
+            "count": 48
+          },
+          {
+            "name": "江西",
+            "count": 41
+          },
+          {
+            "name": "福建",
+            "count": 37
+          },
+          {
+            "name": "廣西",
+            "count": 27
+          }
+        ],
+        "avgCharCoverage": 59.9,
+        "toneCoverageRate": 0.987,
+        "avgToneCount": 6.09
+      },
+      {
+        "broad": "赣语",
+        "count": 238,
+        "geoSpanKm": 2180.5,
+        "topProvinces": [
+          {
+            "name": "江西",
+            "count": 102
+          },
+          {
+            "name": "湖南",
+            "count": 61
+          },
+          {
+            "name": "安徽",
+            "count": 26
+          },
+          {
+            "name": "湖北",
+            "count": 21
+          },
+          {
+            "name": "贛語",
+            "count": 13
+          }
+        ],
+        "avgCharCoverage": 42.3,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 5.88
+      },
+      {
+        "broad": "湘语",
+        "count": 215,
+        "geoSpanKm": 2236.6,
+        "topProvinces": [
+          {
+            "name": "湖南",
+            "count": 168
+          },
+          {
+            "name": "廣西",
+            "count": 22
+          },
+          {
+            "name": "四川",
+            "count": 9
+          },
+          {
+            "name": "湘語",
+            "count": 3
+          },
+          {
+            "name": "江蘇",
+            "count": 2
+          }
+        ],
+        "avgCharCoverage": 67.5,
+        "toneCoverageRate": 0.995,
+        "avgToneCount": 5.63
+      },
+      {
+        "broad": "吴语",
+        "count": 212,
+        "geoSpanKm": 816.1,
+        "topProvinces": [
+          {
+            "name": "浙江",
+            "count": 103
+          },
+          {
+            "name": "江蘇",
+            "count": 37
+          },
+          {
+            "name": "吳語",
+            "count": 29
+          },
+          {
+            "name": "安徽",
+            "count": 27
+          },
+          {
+            "name": "上海",
+            "count": 10
+          }
+        ],
+        "avgCharCoverage": 294.1,
+        "toneCoverageRate": 0.991,
+        "avgToneCount": 7.52
+      },
+      {
+        "broad": "闽语",
+        "count": 206,
+        "geoSpanKm": 3850.0,
+        "topProvinces": [
+          {
+            "name": "福建",
+            "count": 114
+          },
+          {
+            "name": "廣東",
+            "count": 33
+          },
+          {
+            "name": "閩語",
+            "count": 29
+          },
+          {
+            "name": "浙江",
+            "count": 11
+          },
+          {
+            "name": "海南",
+            "count": 10
+          }
+        ],
+        "avgCharCoverage": 2.4,
+        "toneCoverageRate": 0.971,
+        "avgToneCount": 7.8
+      },
+      {
+        "broad": "平话土话",
+        "count": 204,
+        "geoSpanKm": 929.2,
+        "topProvinces": [
+          {
+            "name": "廣西",
+            "count": 119
+          },
+          {
+            "name": "湖南",
+            "count": 36
+          },
+          {
+            "name": "平話",
+            "count": 23
+          },
+          {
+            "name": "廣東",
+            "count": 21
+          },
+          {
+            "name": "其他土話",
+            "count": 4
+          }
+        ],
+        "avgCharCoverage": 10.2,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 7.09
+      },
+      {
+        "broad": "晋语",
+        "count": 163,
+        "geoSpanKm": 1066.5,
+        "topProvinces": [
+          {
+            "name": "山西",
+            "count": 85
+          },
+          {
+            "name": "河北",
+            "count": 20
+          },
+          {
+            "name": "河南",
+            "count": 19
+          },
+          {
+            "name": "晉語",
+            "count": 14
+          },
+          {
+            "name": "陝西",
+            "count": 13
+          }
+        ],
+        "avgCharCoverage": 2.1,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 4.96
+      },
+      {
+        "broad": "徽语",
+        "count": 49,
+        "geoSpanKm": 625.6,
+        "topProvinces": [
+          {
+            "name": "安徽",
+            "count": 24
+          },
+          {
+            "name": "浙江",
+            "count": 11
+          },
+          {
+            "name": "江西",
+            "count": 8
+          },
+          {
+            "name": "徽語",
+            "count": 6
+          }
+        ],
+        "avgCharCoverage": 71.9,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 6.49
+      },
+      {
+        "broad": "民族语",
+        "count": 13,
+        "geoSpanKm": 1363.6,
+        "topProvinces": [
+          {
+            "name": "雲南",
+            "count": 6
+          },
+          {
+            "name": "貴州",
+            "count": 5
+          },
+          {
+            "name": "廣西",
+            "count": 1
+          },
+          {
+            "name": "海南",
+            "count": 1
+          }
+        ],
+        "avgCharCoverage": 0.0,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 8.31
+      },
+      {
+        "broad": "乡话",
+        "count": 9,
+        "geoSpanKm": 291.8,
+        "topProvinces": [
+          {
+            "name": "湖南",
+            "count": 8
+          },
+          {
+            "name": "廣西",
+            "count": 1
+          }
+        ],
+        "avgCharCoverage": 0.0,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 5.67
+      },
+      {
+        "broad": "戏曲音",
+        "count": 9,
+        "geoSpanKm": 1359.4,
+        "topProvinces": [
+          {
+            "name": "湖北",
+            "count": 2
+          },
+          {
+            "name": "江蘇",
+            "count": 2
+          },
+          {
+            "name": "湖南",
+            "count": 2
+          },
+          {
+            "name": "安徽",
+            "count": 1
+          },
+          {
+            "name": "江西",
+            "count": 1
+          }
+        ],
+        "avgCharCoverage": 66.8,
+        "toneCoverageRate": 0.778,
+        "avgToneCount": 5.71
+      },
+      {
+        "broad": "域外方音",
+        "count": 7,
+        "geoSpanKm": 3777.8,
+        "topProvinces": [
+          {
+            "name": "海外",
+            "count": 6
+          },
+          {
+            "name": "域外方音",
+            "count": 1
+          }
+        ],
+        "avgCharCoverage": 0.0,
+        "toneCoverageRate": 0.143,
+        "avgToneCount": 8.0
+      },
+      {
+        "broad": "标准语",
+        "count": 2,
+        "geoSpanKm": 1723.3,
+        "topProvinces": [
+          {
+            "name": "北京",
+            "count": 1
+          },
+          {
+            "name": "臺灣",
+            "count": 1
+          }
+        ],
+        "avgCharCoverage": 2171.0,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 4.0
+      }
+    ],
+    "largestGroups": [
+      {
+        "broad": "官话",
+        "count": 1138,
+        "geoSpanKm": 6481.5,
+        "topProvinces": [
+          {
+            "name": "四川",
+            "count": 126
+          },
+          {
+            "name": "山東",
+            "count": 97
+          },
+          {
+            "name": "江蘇",
+            "count": 87
+          },
+          {
+            "name": "湖北",
+            "count": 86
+          },
+          {
+            "name": "甘肅",
+            "count": 78
+          }
+        ],
+        "avgCharCoverage": 83.6,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 4.32
+      },
+      {
+        "broad": "粤语",
+        "count": 268,
+        "geoSpanKm": 4149.2,
+        "topProvinces": [
+          {
+            "name": "廣東",
+            "count": 118
+          },
+          {
+            "name": "粵語",
+            "count": 73
+          },
+          {
+            "name": "廣西",
+            "count": 70
+          },
+          {
+            "name": "澳門",
+            "count": 3
+          },
+          {
+            "name": "海南",
+            "count": 2
+          }
+        ],
+        "avgCharCoverage": 0.0,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 8.28
+      },
+      {
+        "broad": "客家话",
+        "count": 239,
+        "geoSpanKm": 4270.2,
+        "topProvinces": [
+          {
+            "name": "客語",
+            "count": 53
+          },
+          {
+            "name": "廣東",
+            "count": 48
+          },
+          {
+            "name": "江西",
+            "count": 41
+          },
+          {
+            "name": "福建",
+            "count": 37
+          },
+          {
+            "name": "廣西",
+            "count": 27
+          }
+        ],
+        "avgCharCoverage": 59.9,
+        "toneCoverageRate": 0.987,
+        "avgToneCount": 6.09
+      },
+      {
+        "broad": "赣语",
+        "count": 238,
+        "geoSpanKm": 2180.5,
+        "topProvinces": [
+          {
+            "name": "江西",
+            "count": 102
+          },
+          {
+            "name": "湖南",
+            "count": 61
+          },
+          {
+            "name": "安徽",
+            "count": 26
+          },
+          {
+            "name": "湖北",
+            "count": 21
+          },
+          {
+            "name": "贛語",
+            "count": 13
+          }
+        ],
+        "avgCharCoverage": 42.3,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 5.88
+      },
+      {
+        "broad": "湘语",
+        "count": 215,
+        "geoSpanKm": 2236.6,
+        "topProvinces": [
+          {
+            "name": "湖南",
+            "count": 168
+          },
+          {
+            "name": "廣西",
+            "count": 22
+          },
+          {
+            "name": "四川",
+            "count": 9
+          },
+          {
+            "name": "湘語",
+            "count": 3
+          },
+          {
+            "name": "江蘇",
+            "count": 2
+          }
+        ],
+        "avgCharCoverage": 67.5,
+        "toneCoverageRate": 0.995,
+        "avgToneCount": 5.63
+      },
+      {
+        "broad": "吴语",
+        "count": 212,
+        "geoSpanKm": 816.1,
+        "topProvinces": [
+          {
+            "name": "浙江",
+            "count": 103
+          },
+          {
+            "name": "江蘇",
+            "count": 37
+          },
+          {
+            "name": "吳語",
+            "count": 29
+          },
+          {
+            "name": "安徽",
+            "count": 27
+          },
+          {
+            "name": "上海",
+            "count": 10
+          }
+        ],
+        "avgCharCoverage": 294.1,
+        "toneCoverageRate": 0.991,
+        "avgToneCount": 7.52
+      }
+    ],
+    "widestGroups": [
+      {
+        "broad": "官话",
+        "count": 1138,
+        "geoSpanKm": 6481.5,
+        "topProvinces": [
+          {
+            "name": "四川",
+            "count": 126
+          },
+          {
+            "name": "山東",
+            "count": 97
+          },
+          {
+            "name": "江蘇",
+            "count": 87
+          },
+          {
+            "name": "湖北",
+            "count": 86
+          },
+          {
+            "name": "甘肅",
+            "count": 78
+          }
+        ],
+        "avgCharCoverage": 83.6,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 4.32
+      },
+      {
+        "broad": "客家话",
+        "count": 239,
+        "geoSpanKm": 4270.2,
+        "topProvinces": [
+          {
+            "name": "客語",
+            "count": 53
+          },
+          {
+            "name": "廣東",
+            "count": 48
+          },
+          {
+            "name": "江西",
+            "count": 41
+          },
+          {
+            "name": "福建",
+            "count": 37
+          },
+          {
+            "name": "廣西",
+            "count": 27
+          }
+        ],
+        "avgCharCoverage": 59.9,
+        "toneCoverageRate": 0.987,
+        "avgToneCount": 6.09
+      },
+      {
+        "broad": "粤语",
+        "count": 268,
+        "geoSpanKm": 4149.2,
+        "topProvinces": [
+          {
+            "name": "廣東",
+            "count": 118
+          },
+          {
+            "name": "粵語",
+            "count": 73
+          },
+          {
+            "name": "廣西",
+            "count": 70
+          },
+          {
+            "name": "澳門",
+            "count": 3
+          },
+          {
+            "name": "海南",
+            "count": 2
+          }
+        ],
+        "avgCharCoverage": 0.0,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 8.28
+      },
+      {
+        "broad": "闽语",
+        "count": 206,
+        "geoSpanKm": 3850.0,
+        "topProvinces": [
+          {
+            "name": "福建",
+            "count": 114
+          },
+          {
+            "name": "廣東",
+            "count": 33
+          },
+          {
+            "name": "閩語",
+            "count": 29
+          },
+          {
+            "name": "浙江",
+            "count": 11
+          },
+          {
+            "name": "海南",
+            "count": 10
+          }
+        ],
+        "avgCharCoverage": 2.4,
+        "toneCoverageRate": 0.971,
+        "avgToneCount": 7.8
+      },
+      {
+        "broad": "域外方音",
+        "count": 7,
+        "geoSpanKm": 3777.8,
+        "topProvinces": [
+          {
+            "name": "海外",
+            "count": 6
+          },
+          {
+            "name": "域外方音",
+            "count": 1
+          }
+        ],
+        "avgCharCoverage": 0.0,
+        "toneCoverageRate": 0.143,
+        "avgToneCount": 8.0
+      },
+      {
+        "broad": "湘语",
+        "count": 215,
+        "geoSpanKm": 2236.6,
+        "topProvinces": [
+          {
+            "name": "湖南",
+            "count": 168
+          },
+          {
+            "name": "廣西",
+            "count": 22
+          },
+          {
+            "name": "四川",
+            "count": 9
+          },
+          {
+            "name": "湘語",
+            "count": 3
+          },
+          {
+            "name": "江蘇",
+            "count": 2
+          }
+        ],
+        "avgCharCoverage": 67.5,
+        "toneCoverageRate": 0.995,
+        "avgToneCount": 5.63
+      }
+    ],
+    "bestCoveredGroups": [
+      {
+        "broad": "标准语",
+        "count": 2,
+        "geoSpanKm": 1723.3,
+        "topProvinces": [
+          {
+            "name": "北京",
+            "count": 1
+          },
+          {
+            "name": "臺灣",
+            "count": 1
+          }
+        ],
+        "avgCharCoverage": 2171.0,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 4.0
+      },
+      {
+        "broad": "吴语",
+        "count": 212,
+        "geoSpanKm": 816.1,
+        "topProvinces": [
+          {
+            "name": "浙江",
+            "count": 103
+          },
+          {
+            "name": "江蘇",
+            "count": 37
+          },
+          {
+            "name": "吳語",
+            "count": 29
+          },
+          {
+            "name": "安徽",
+            "count": 27
+          },
+          {
+            "name": "上海",
+            "count": 10
+          }
+        ],
+        "avgCharCoverage": 294.1,
+        "toneCoverageRate": 0.991,
+        "avgToneCount": 7.52
+      },
+      {
+        "broad": "官话",
+        "count": 1138,
+        "geoSpanKm": 6481.5,
+        "topProvinces": [
+          {
+            "name": "四川",
+            "count": 126
+          },
+          {
+            "name": "山東",
+            "count": 97
+          },
+          {
+            "name": "江蘇",
+            "count": 87
+          },
+          {
+            "name": "湖北",
+            "count": 86
+          },
+          {
+            "name": "甘肅",
+            "count": 78
+          }
+        ],
+        "avgCharCoverage": 83.6,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 4.32
+      },
+      {
+        "broad": "徽语",
+        "count": 49,
+        "geoSpanKm": 625.6,
+        "topProvinces": [
+          {
+            "name": "安徽",
+            "count": 24
+          },
+          {
+            "name": "浙江",
+            "count": 11
+          },
+          {
+            "name": "江西",
+            "count": 8
+          },
+          {
+            "name": "徽語",
+            "count": 6
+          }
+        ],
+        "avgCharCoverage": 71.9,
+        "toneCoverageRate": 1.0,
+        "avgToneCount": 6.49
+      },
+      {
+        "broad": "湘语",
+        "count": 215,
+        "geoSpanKm": 2236.6,
+        "topProvinces": [
+          {
+            "name": "湖南",
+            "count": 168
+          },
+          {
+            "name": "廣西",
+            "count": 22
+          },
+          {
+            "name": "四川",
+            "count": 9
+          },
+          {
+            "name": "湘語",
+            "count": 3
+          },
+          {
+            "name": "江蘇",
+            "count": 2
+          }
+        ],
+        "avgCharCoverage": 67.5,
+        "toneCoverageRate": 0.995,
+        "avgToneCount": 5.63
+      },
+      {
+        "broad": "戏曲音",
+        "count": 9,
+        "geoSpanKm": 1359.4,
+        "topProvinces": [
+          {
+            "name": "湖北",
+            "count": 2
+          },
+          {
+            "name": "江蘇",
+            "count": 2
+          },
+          {
+            "name": "湖南",
+            "count": 2
+          },
+          {
+            "name": "安徽",
+            "count": 1
+          },
+          {
+            "name": "江西",
+            "count": 1
+          }
+        ],
+        "avgCharCoverage": 66.8,
+        "toneCoverageRate": 0.778,
+        "avgToneCount": 5.71
+      }
+    ]
+  },
+  "mdsStats": {
+    "geo": {
+      "source": "geo",
+      "pointCount": 2972,
+      "varianceExplained": 100.12,
+      "groups": [
+        {
+          "group": "官话",
+          "count": 1138,
+          "centroid": [
+            311.0592,
+            261.8598
+          ],
+          "intraAvgDistance": 703.2878,
+          "outliers": [
+            {
+              "id": "東干甘肅話",
+              "name": "東干甘肅話",
+              "distance": 3454.621
+            },
+            {
+              "id": "塔城",
+              "name": "塔城",
+              "distance": 2874.7584
+            },
+            {
+              "id": "石河子",
+              "name": "石河子",
+              "distance": 2550.9312
+            },
+            {
+              "id": "瑪納斯",
+              "name": "瑪納斯",
+              "distance": 2540.3029
+            },
+            {
+              "id": "焉耆",
+              "name": "焉耆",
+              "distance": 2433.2304
+            }
+          ],
+          "nearestGroup": {
+            "group": "晋语",
+            "distance": 519.6715
+          }
+        },
+        {
+          "group": "粤语",
+          "count": 268,
+          "centroid": [
+            -727.2803,
+            -134.7327
+          ],
+          "intraAvgDistance": 225.9785,
+          "outliers": [
+            {
+              "id": "開平(赤坎)",
+              "name": "開平(赤坎)",
+              "distance": 1955.809
+            },
+            {
+              "id": "寶安(沙井)",
+              "name": "寶安(沙井)",
+              "distance": 1941.2482
+            },
+            {
+              "id": "曼谷(廣府話)",
+              "name": "曼谷(廣府話)",
+              "distance": 1568.9965
+            },
+            {
+              "id": "河口",
+              "name": "河口",
+              "distance": 803.1287
+            },
+            {
+              "id": "崖州邁話",
+              "name": "崖州邁話",
+              "distance": 570.985
+            }
+          ],
+          "nearestGroup": {
+            "group": "平话土话",
+            "distance": 233.0565
+          }
+        },
+        {
+          "group": "客家话",
+          "count": 239,
+          "centroid": [
+            -454.2002,
+            -275.9415
+          ],
+          "intraAvgDistance": 378.0555,
+          "outliers": [
+            {
+              "id": "古晉河婆話",
+              "name": "古晉河婆話",
+              "distance": 2607.8403
+            },
+            {
+              "id": "馬來西亞(柔佛士乃客家話)",
+              "name": "馬來西亞(柔佛士乃客家話)",
+              "distance": 2606.9118
+            },
+            {
+              "id": "亞庇客家話",
+              "name": "亞庇客家話",
+              "distance": 2097.4539
+            },
+            {
+              "id": "曼谷(半山客話)",
+              "name": "曼谷(半山客話)",
+              "distance": 1875.9829
+            },
+            {
+              "id": "成都和平",
+              "name": "成都和平",
+              "distance": 1167.5406
+            }
+          ],
+          "nearestGroup": {
+            "group": "闽语",
+            "distance": 274.1085
+          }
+        },
+        {
+          "group": "赣语",
+          "count": 238,
+          "centroid": [
+            -53.0172,
+            -165.169
+          ],
+          "intraAvgDistance": 241.9277,
+          "outliers": [
+            {
+              "id": "河口農場",
+              "name": "河口農場",
+              "distance": 1253.3034
+            },
+            {
+              "id": "東方付馬",
+              "name": "東方付馬",
+              "distance": 1190.0796
+            },
+            {
+              "id": "鎮安木王",
+              "name": "鎮安木王",
+              "distance": 770.983
+            },
+            {
+              "id": "柞水馬臺",
+              "name": "柞水馬臺",
+              "distance": 754.4637
+            },
+            {
+              "id": "紫陽漢王",
+              "name": "紫陽漢王",
+              "distance": 746.63
+            }
+          ],
+          "nearestGroup": {
+            "group": "戏曲音",
+            "distance": 179.7764
+          }
+        },
+        {
+          "group": "湘语",
+          "count": 215,
+          "centroid": [
+            -270.3547,
+            61.2843
+          ],
+          "intraAvgDistance": 213.7341,
+          "outliers": [
+            {
+              "id": "景洪橄欖壩",
+              "name": "景洪橄欖壩",
+              "distance": 1249.157
+            },
+            {
+              "id": "湖南(道縣)",
+              "name": "湖南(道縣)",
+              "distance": 943.7844
+            },
+            {
+              "id": "溧水雙泥塘",
+              "name": "溧水雙泥塘",
+              "distance": 866.5304
+            },
+            {
+              "id": "溧陽繆巷",
+              "name": "溧陽繆巷",
+              "distance": 860.2442
+            },
+            {
+              "id": "江永城關(白水村)",
+              "name": "江永城關(白水村)",
+              "distance": 859.7837
+            }
+          ],
+          "nearestGroup": {
+            "group": "乡话",
+            "distance": 143.314
+          }
+        },
+        {
+          "group": "吴语",
+          "count": 212,
+          "centroid": [
+            326.7003,
+            -574.422
+          ],
+          "intraAvgDistance": 168.7927,
+          "outliers": [
+            {
+              "id": "大豐南陽",
+              "name": "大豐南陽",
+              "distance": 338.4693
+            },
+            {
+              "id": "蒼南蒲門",
+              "name": "蒼南蒲門",
+              "distance": 325.6889
+            },
+            {
+              "id": "蒼南金鄉",
+              "name": "蒼南金鄉",
+              "distance": 306.3139
+            },
+            {
+              "id": "慶元",
+              "name": "慶元",
+              "distance": 292.7494
+            },
+            {
+              "id": "龍港",
+              "name": "龍港",
+              "distance": 289.5512
+            }
+          ],
+          "nearestGroup": {
+            "group": "徽语",
+            "distance": 174.2798
+          }
+        },
+        {
+          "group": "闽语",
+          "count": 206,
+          "centroid": [
+            -327.5922,
+            -519.0586
+          ],
+          "intraAvgDistance": 366.0193,
+          "outliers": [
+            {
+              "id": "檳城閩南話",
+              "name": "檳城閩南話",
+              "distance": 2799.8168
+            },
+            {
+              "id": "詩巫閩清話",
+              "name": "詩巫閩清話",
+              "distance": 2572.9208
+            },
+            {
+              "id": "曼谷(潮州話)",
+              "name": "曼谷(潮州話)",
+              "distance": 2112.6793
+            },
+            {
+              "id": "大田(前路話)",
+              "name": "大田(前路話)",
+              "distance": 1507.2269
+            },
+            {
+              "id": "樂東黃流",
+              "name": "樂東黃流",
+              "distance": 1092.6115
+            }
+          ],
+          "nearestGroup": {
+            "group": "客家话",
+            "distance": 274.1085
+          }
+        },
+        {
+          "group": "平话土话",
+          "count": 204,
+          "centroid": [
+            -596.258,
+            58.0066
+          ],
+          "intraAvgDistance": 175.0962,
+          "outliers": [
+            {
+              "id": "富寧(剝隘)",
+              "name": "富寧(剝隘)",
+              "distance": 480.2337
+            },
+            {
+              "id": "富寧歸朝",
+              "name": "富寧歸朝",
+              "distance": 480.2286
+            },
+            {
+              "id": "龍州(上龍)",
+              "name": "龍州(上龍)",
+              "distance": 446.0773
+            },
+            {
+              "id": "龍州上龍",
+              "name": "龍州上龍",
+              "distance": 446.0766
+            },
+            {
+              "id": "崇左肆排話",
+              "name": "崇左肆排話",
+              "distance": 407.6114
+            }
+          ],
+          "nearestGroup": {
+            "group": "粤语",
+            "distance": 233.0565
+          }
+        },
+        {
+          "group": "晋语",
+          "count": 163,
+          "centroid": [
+            812.72,
+            397.4876
+          ],
+          "intraAvgDistance": 195.5369,
+          "outliers": [
+            {
+              "id": "烏海",
+              "name": "烏海",
+              "distance": 538.9947
+            },
+            {
+              "id": "化德",
+              "name": "化德",
+              "distance": 496.38
+            },
+            {
+              "id": "尚義東路",
+              "name": "尚義東路",
+              "distance": 441.5244
+            },
+            {
+              "id": "張北",
+              "name": "張北",
+              "distance": 441.4004
+            },
+            {
+              "id": "察哈爾右翼後旗",
+              "name": "察哈爾右翼後旗",
+              "distance": 431.0243
+            }
+          ],
+          "nearestGroup": {
+            "group": "官话",
+            "distance": 519.6715
+          }
+        },
+        {
+          "group": "徽语",
+          "count": 49,
+          "centroid": [
+            211.6587,
+            -443.5065
+          ],
+          "intraAvgDistance": 70.3241,
+          "outliers": [
+            {
+              "id": "吉安東聯",
+              "name": "吉安東聯",
+              "distance": 467.8128
+            },
+            {
+              "id": "武義楊岸",
+              "name": "武義楊岸",
+              "distance": 169.0224
+            },
+            {
+              "id": "金華船上話",
+              "name": "金華船上話",
+              "distance": 149.8764
+            },
+            {
+              "id": "蘭谿船上話",
+              "name": "蘭谿船上話",
+              "distance": 128.6205
+            },
+            {
+              "id": "建德船上話",
+              "name": "建德船上話",
+              "distance": 125.0645
+            }
+          ],
+          "nearestGroup": {
+            "group": "吴语",
+            "distance": 174.2798
+          }
+        },
+        {
+          "group": "民族语",
+          "count": 13,
+          "centroid": [
+            -702.7537,
+            747.2143
+          ],
+          "intraAvgDistance": 432.8553,
+          "outliers": [
+            {
+              "id": "臨高",
+              "name": "臨高",
+              "distance": 905.6042
+            },
+            {
+              "id": "貴港大黃壯語",
+              "name": "貴港大黃壯語",
+              "distance": 652.6233
+            },
+            {
+              "id": "榕江侗上古借詞",
+              "name": "榕江侗上古借詞",
+              "distance": 492.5819
+            },
+            {
+              "id": "榕江侗中古借詞",
+              "name": "榕江侗中古借詞",
+              "distance": 492.3188
+            },
+            {
+              "id": "碧江洛本卓白語",
+              "name": "碧江洛本卓白語",
+              "distance": 478.9748
+            }
+          ],
+          "nearestGroup": {
+            "group": "乡话",
+            "distance": 687.9325
+          }
+        },
+        {
+          "group": "乡话",
+          "count": 9,
+          "centroid": [
+            -280.3301,
+            204.2507
+          ],
+          "intraAvgDistance": 85.9975,
+          "outliers": [
+            {
+              "id": "城步巡頭",
+              "name": "城步巡頭",
+              "distance": 196.9684
+            },
+            {
+              "id": "龍勝蕨枝坪",
+              "name": "龍勝蕨枝坪",
+              "distance": 185.1639
+            },
+            {
+              "id": "古丈高望界",
+              "name": "古丈高望界",
+              "distance": 92.4616
+            },
+            {
+              "id": "沅陵清水坪",
+              "name": "沅陵清水坪",
+              "distance": 78.2067
+            },
+            {
+              "id": "瀘溪梁家潭",
+              "name": "瀘溪梁家潭",
+              "distance": 58.644
+            }
+          ],
+          "nearestGroup": {
+            "group": "湘语",
+            "distance": 143.314
+          }
+        },
+        {
+          "group": "戏曲音",
+          "count": 9,
+          "centroid": [
+            117.2903,
+            -222.744
+          ],
+          "intraAvgDistance": 327.7848,
+          "outliers": [
+            {
+              "id": "古腔粤劇",
+              "name": "古腔粤劇",
+              "distance": 770.5427
+            },
+            {
+              "id": "淮劇",
+              "name": "淮劇",
+              "distance": 563.2035
+            },
+            {
+              "id": "蘇州評彈",
+              "name": "蘇州評彈",
+              "distance": 497.7802
+            },
+            {
+              "id": "隨州花鼓戲",
+              "name": "隨州花鼓戲",
+              "distance": 318.1694
+            },
+            {
+              "id": "湘劇",
+              "name": "湘劇",
+              "distance": 308.061
+            }
+          ],
+          "nearestGroup": {
+            "group": "赣语",
+            "distance": 179.7764
+          }
+        },
+        {
+          "group": "域外方音",
+          "count": 7,
+          "centroid": [
+            968.2737,
+            -679.8523
+          ],
+          "intraAvgDistance": 1110.7369,
+          "outliers": [
+            {
+              "id": "越南",
+              "name": "越南",
+              "distance": 2351.9231
+            },
+            {
+              "id": "党項",
+              "name": "党項",
+              "distance": 1647.4407
+            },
+            {
+              "id": "日語慣用音",
+              "name": "日語慣用音",
+              "distance": 1427.5574
+            },
+            {
+              "id": "日語漢音",
+              "name": "日語漢音",
+              "distance": 1065.7688
+            },
+            {
+              "id": "日語吳音",
+              "name": "日語吳音",
+              "distance": 483.4517
+            }
+          ],
+          "nearestGroup": {
+            "group": "标准语",
+            "distance": 523.2691
+          }
+        },
+        {
+          "group": "标准语",
+          "count": 2,
+          "centroid": [
+            532.3655,
+            -390.3793
+          ],
+          "intraAvgDistance": 863.5696,
+          "outliers": [
+            {
+              "id": "普通話",
+              "name": "普通話",
+              "distance": 863.5696
+            },
+            {
+              "id": "國語",
+              "name": "國語",
+              "distance": 863.5696
+            }
+          ],
+          "nearestGroup": {
+            "group": "吴语",
+            "distance": 275.9889
+          }
+        }
+      ],
+      "mostDiffuseGroups": [
+        {
+          "group": "域外方音",
+          "count": 7,
+          "centroid": [
+            968.2737,
+            -679.8523
+          ],
+          "intraAvgDistance": 1110.7369,
+          "outliers": [
+            {
+              "id": "越南",
+              "name": "越南",
+              "distance": 2351.9231
+            },
+            {
+              "id": "党項",
+              "name": "党項",
+              "distance": 1647.4407
+            },
+            {
+              "id": "日語慣用音",
+              "name": "日語慣用音",
+              "distance": 1427.5574
+            },
+            {
+              "id": "日語漢音",
+              "name": "日語漢音",
+              "distance": 1065.7688
+            },
+            {
+              "id": "日語吳音",
+              "name": "日語吳音",
+              "distance": 483.4517
+            }
+          ],
+          "nearestGroup": {
+            "group": "标准语",
+            "distance": 523.2691
+          }
+        },
+        {
+          "group": "标准语",
+          "count": 2,
+          "centroid": [
+            532.3655,
+            -390.3793
+          ],
+          "intraAvgDistance": 863.5696,
+          "outliers": [
+            {
+              "id": "普通話",
+              "name": "普通話",
+              "distance": 863.5696
+            },
+            {
+              "id": "國語",
+              "name": "國語",
+              "distance": 863.5696
+            }
+          ],
+          "nearestGroup": {
+            "group": "吴语",
+            "distance": 275.9889
+          }
+        },
+        {
+          "group": "官话",
+          "count": 1138,
+          "centroid": [
+            311.0592,
+            261.8598
+          ],
+          "intraAvgDistance": 703.2878,
+          "outliers": [
+            {
+              "id": "東干甘肅話",
+              "name": "東干甘肅話",
+              "distance": 3454.621
+            },
+            {
+              "id": "塔城",
+              "name": "塔城",
+              "distance": 2874.7584
+            },
+            {
+              "id": "石河子",
+              "name": "石河子",
+              "distance": 2550.9312
+            },
+            {
+              "id": "瑪納斯",
+              "name": "瑪納斯",
+              "distance": 2540.3029
+            },
+            {
+              "id": "焉耆",
+              "name": "焉耆",
+              "distance": 2433.2304
+            }
+          ],
+          "nearestGroup": {
+            "group": "晋语",
+            "distance": 519.6715
+          }
+        },
+        {
+          "group": "民族语",
+          "count": 13,
+          "centroid": [
+            -702.7537,
+            747.2143
+          ],
+          "intraAvgDistance": 432.8553,
+          "outliers": [
+            {
+              "id": "臨高",
+              "name": "臨高",
+              "distance": 905.6042
+            },
+            {
+              "id": "貴港大黃壯語",
+              "name": "貴港大黃壯語",
+              "distance": 652.6233
+            },
+            {
+              "id": "榕江侗上古借詞",
+              "name": "榕江侗上古借詞",
+              "distance": 492.5819
+            },
+            {
+              "id": "榕江侗中古借詞",
+              "name": "榕江侗中古借詞",
+              "distance": 492.3188
+            },
+            {
+              "id": "碧江洛本卓白語",
+              "name": "碧江洛本卓白語",
+              "distance": 478.9748
+            }
+          ],
+          "nearestGroup": {
+            "group": "乡话",
+            "distance": 687.9325
+          }
+        },
+        {
+          "group": "客家话",
+          "count": 239,
+          "centroid": [
+            -454.2002,
+            -275.9415
+          ],
+          "intraAvgDistance": 378.0555,
+          "outliers": [
+            {
+              "id": "古晉河婆話",
+              "name": "古晉河婆話",
+              "distance": 2607.8403
+            },
+            {
+              "id": "馬來西亞(柔佛士乃客家話)",
+              "name": "馬來西亞(柔佛士乃客家話)",
+              "distance": 2606.9118
+            },
+            {
+              "id": "亞庇客家話",
+              "name": "亞庇客家話",
+              "distance": 2097.4539
+            },
+            {
+              "id": "曼谷(半山客話)",
+              "name": "曼谷(半山客話)",
+              "distance": 1875.9829
+            },
+            {
+              "id": "成都和平",
+              "name": "成都和平",
+              "distance": 1167.5406
+            }
+          ],
+          "nearestGroup": {
+            "group": "闽语",
+            "distance": 274.1085
+          }
+        },
+        {
+          "group": "闽语",
+          "count": 206,
+          "centroid": [
+            -327.5922,
+            -519.0586
+          ],
+          "intraAvgDistance": 366.0193,
+          "outliers": [
+            {
+              "id": "檳城閩南話",
+              "name": "檳城閩南話",
+              "distance": 2799.8168
+            },
+            {
+              "id": "詩巫閩清話",
+              "name": "詩巫閩清話",
+              "distance": 2572.9208
+            },
+            {
+              "id": "曼谷(潮州話)",
+              "name": "曼谷(潮州話)",
+              "distance": 2112.6793
+            },
+            {
+              "id": "大田(前路話)",
+              "name": "大田(前路話)",
+              "distance": 1507.2269
+            },
+            {
+              "id": "樂東黃流",
+              "name": "樂東黃流",
+              "distance": 1092.6115
+            }
+          ],
+          "nearestGroup": {
+            "group": "客家话",
+            "distance": 274.1085
+          }
+        }
+      ]
+    },
+    "ling": {
+      "source": "ling",
+      "pointCount": 406,
+      "varianceExplained": null,
+      "groups": [
+        {
+          "group": "粤语",
+          "count": 80,
+          "centroid": [
+            0.326,
+            0.0541
+          ],
+          "intraAvgDistance": 0.1579,
+          "outliers": [
+            {
+              "id": "香港",
+              "name": "香港",
+              "distance": 0.6794
+            },
+            {
+              "id": "北海(沙田鎮海邊話)",
+              "name": "北海(沙田鎮海邊話)",
+              "distance": 0.3184
+            },
+            {
+              "id": "新田蕃田(圍頭話)",
+              "name": "新田蕃田(圍頭話)",
+              "distance": 0.3041
+            },
+            {
+              "id": "恩平(牛江)",
+              "name": "恩平(牛江)",
+              "distance": 0.2858
+            },
+            {
+              "id": "香港(市區)",
+              "name": "香港(市區)",
+              "distance": 0.2851
+            }
+          ],
+          "nearestGroup": {
+            "group": "平话土话",
+            "distance": 0.2233
+          }
+        },
+        {
+          "group": "客家话",
+          "count": 59,
+          "centroid": [
+            -0.0192,
+            -0.3006
+          ],
+          "intraAvgDistance": 0.1772,
+          "outliers": [
+            {
+              "id": "上猶(江西)",
+              "name": "上猶(江西)",
+              "distance": 0.3434
+            },
+            {
+              "id": "南康",
+              "name": "南康",
+              "distance": 0.3388
+            },
+            {
+              "id": "南寧馬山(片聯)",
+              "name": "南寧馬山(片聯)",
+              "distance": 0.3322
+            },
+            {
+              "id": "于都",
+              "name": "于都",
+              "distance": 0.3288
+            },
+            {
+              "id": "大余(江西)",
+              "name": "大余(江西)",
+              "distance": 0.327
+            }
+          ],
+          "nearestGroup": {
+            "group": "赣语",
+            "distance": 0.2212
+          }
+        },
+        {
+          "group": "吴语",
+          "count": 57,
+          "centroid": [
+            -0.1305,
+            0.1111
+          ],
+          "intraAvgDistance": 0.047,
+          "outliers": [
+            {
+              "id": "寧國市莊村鄉",
+              "name": "寧國市莊村鄉",
+              "distance": 0.1354
+            },
+            {
+              "id": "貴池市灌口鄉",
+              "name": "貴池市灌口鄉",
+              "distance": 0.1286
+            },
+            {
+              "id": "宣州市裘公鄉",
+              "name": "宣州市裘公鄉",
+              "distance": 0.1271
+            },
+            {
+              "id": "繁昌",
+              "name": "繁昌",
+              "distance": 0.1204
+            },
+            {
+              "id": "南陵(仙坊話)",
+              "name": "南陵(仙坊話)",
+              "distance": 0.1031
+            }
+          ],
+          "nearestGroup": {
+            "group": "徽语",
+            "distance": 0.0335
+          }
+        },
+        {
+          "group": "赣语",
+          "count": 46,
+          "centroid": [
+            -0.1321,
+            -0.1104
+          ],
+          "intraAvgDistance": 0.1065,
+          "outliers": [
+            {
+              "id": "井岡山",
+              "name": "井岡山",
+              "distance": 0.2554
+            },
+            {
+              "id": "建寧(城關話)",
+              "name": "建寧(城關話)",
+              "distance": 0.2474
+            },
+            {
+              "id": "泰寧(城關話)",
+              "name": "泰寧(城關話)",
+              "distance": 0.2017
+            },
+            {
+              "id": "吉水(螺田)",
+              "name": "吉水(螺田)",
+              "distance": 0.1843
+            },
+            {
+              "id": "陽新(國和)",
+              "name": "陽新(國和)",
+              "distance": 0.1616
+            }
+          ],
+          "nearestGroup": {
+            "group": "湘语",
+            "distance": 0.1606
+          }
+        },
+        {
+          "group": "官话",
+          "count": 45,
+          "centroid": [
+            -0.1988,
+            0.1181
+          ],
+          "intraAvgDistance": 0.0794,
+          "outliers": [
+            {
+              "id": "柳州(雒容)",
+              "name": "柳州(雒容)",
+              "distance": 0.3776
+            },
+            {
+              "id": "桂林(臨桂)",
+              "name": "桂林(臨桂)",
+              "distance": 0.3468
+            },
+            {
+              "id": "武昌",
+              "name": "武昌",
+              "distance": 0.1454
+            },
+            {
+              "id": "北京",
+              "name": "北京",
+              "distance": 0.1362
+            },
+            {
+              "id": "貴池",
+              "name": "貴池",
+              "distance": 0.103
+            }
+          ],
+          "nearestGroup": {
+            "group": "晋语",
+            "distance": 0.0449
+          }
+        },
+        {
+          "group": "闽语",
+          "count": 43,
+          "centroid": [
+            0.023,
+            -0.018
+          ],
+          "intraAvgDistance": 0.0782,
+          "outliers": [
+            {
+              "id": "建寧",
+              "name": "建寧",
+              "distance": 0.2967
+            },
+            {
+              "id": "邵武",
+              "name": "邵武",
+              "distance": 0.1831
+            },
+            {
+              "id": "中山(隆都)(珠江三角洲)",
+              "name": "中山(隆都)(珠江三角洲)",
+              "distance": 0.1821
+            },
+            {
+              "id": "晉江(青陽鎮)",
+              "name": "晉江(青陽鎮)",
+              "distance": 0.1684
+            },
+            {
+              "id": "大田",
+              "name": "大田",
+              "distance": 0.159
+            }
+          ],
+          "nearestGroup": {
+            "group": "湘语",
+            "distance": 0.0949
+          }
+        },
+        {
+          "group": "晋语",
+          "count": 33,
+          "centroid": [
+            -0.1659,
+            0.1488
+          ],
+          "intraAvgDistance": 0.0308,
+          "outliers": [
+            {
+              "id": "和順",
+              "name": "和順",
+              "distance": 0.0885
+            },
+            {
+              "id": "平定",
+              "name": "平定",
+              "distance": 0.0764
+            },
+            {
+              "id": "太原",
+              "name": "太原",
+              "distance": 0.0751
+            },
+            {
+              "id": "隰縣",
+              "name": "隰縣",
+              "distance": 0.0615
+            },
+            {
+              "id": "清徐",
+              "name": "清徐",
+              "distance": 0.0532
+            }
+          ],
+          "nearestGroup": {
+            "group": "官话",
+            "distance": 0.0449
+          }
+        },
+        {
+          "group": "平话土话",
+          "count": 31,
+          "centroid": [
+            0.103,
+            0.0658
+          ],
+          "intraAvgDistance": 0.1021,
+          "outliers": [
+            {
+              "id": "橫縣(橫州)",
+              "name": "橫縣(橫州)",
+              "distance": 0.1922
+            },
+            {
+              "id": "寧遠(清水橋)",
+              "name": "寧遠(清水橋)",
+              "distance": 0.1907
+            },
+            {
+              "id": "田東(林逢)",
+              "name": "田東(林逢)",
+              "distance": 0.1593
+            },
+            {
+              "id": "扶綏(龍頭)",
+              "name": "扶綏(龍頭)",
+              "distance": 0.1586
+            },
+            {
+              "id": "馬山(喬利)",
+              "name": "馬山(喬利)",
+              "distance": 0.1552
+            }
+          ],
+          "nearestGroup": {
+            "group": "闽语",
+            "distance": 0.1159
+          }
+        },
+        {
+          "group": "湘语",
+          "count": 6,
+          "centroid": [
+            -0.0577,
+            0.032
+          ],
+          "intraAvgDistance": 0.0708,
+          "outliers": [
+            {
+              "id": "湖南(道縣)",
+              "name": "湖南(道縣)",
+              "distance": 0.1371
+            },
+            {
+              "id": "灌陽(文市)",
+              "name": "灌陽(文市)",
+              "distance": 0.0972
+            },
+            {
+              "id": "全州(縣城)",
+              "name": "全州(縣城)",
+              "distance": 0.0612
+            },
+            {
+              "id": "雙峰",
+              "name": "雙峰",
+              "distance": 0.061
+            },
+            {
+              "id": "江永城關(白水村)",
+              "name": "江永城關(白水村)",
+              "distance": 0.0448
+            }
+          ],
+          "nearestGroup": {
+            "group": "闽语",
+            "distance": 0.0949
+          }
+        },
+        {
+          "group": "徽语",
+          "count": 6,
+          "centroid": [
+            -0.1409,
+            0.0793
+          ],
+          "intraAvgDistance": 0.0286,
+          "outliers": [
+            {
+              "id": "旌德(安徽省志)",
+              "name": "旌德(安徽省志)",
+              "distance": 0.0526
+            },
+            {
+              "id": "屯溪(安徽省志)",
+              "name": "屯溪(安徽省志)",
+              "distance": 0.0448
+            },
+            {
+              "id": "黟縣(安徽省志)",
+              "name": "黟縣(安徽省志)",
+              "distance": 0.0322
+            },
+            {
+              "id": "績溪(安徽省志)",
+              "name": "績溪(安徽省志)",
+              "distance": 0.0187
+            },
+            {
+              "id": "黃山(湯口)(安徽省志)",
+              "name": "黃山(湯口)(安徽省志)",
+              "distance": 0.0172
+            }
+          ],
+          "nearestGroup": {
+            "group": "吴语",
+            "distance": 0.0335
+          }
+        }
+      ],
+      "mostDiffuseGroups": [
+        {
+          "group": "客家话",
+          "count": 59,
+          "centroid": [
+            -0.0192,
+            -0.3006
+          ],
+          "intraAvgDistance": 0.1772,
+          "outliers": [
+            {
+              "id": "上猶(江西)",
+              "name": "上猶(江西)",
+              "distance": 0.3434
+            },
+            {
+              "id": "南康",
+              "name": "南康",
+              "distance": 0.3388
+            },
+            {
+              "id": "南寧馬山(片聯)",
+              "name": "南寧馬山(片聯)",
+              "distance": 0.3322
+            },
+            {
+              "id": "于都",
+              "name": "于都",
+              "distance": 0.3288
+            },
+            {
+              "id": "大余(江西)",
+              "name": "大余(江西)",
+              "distance": 0.327
+            }
+          ],
+          "nearestGroup": {
+            "group": "赣语",
+            "distance": 0.2212
+          }
+        },
+        {
+          "group": "粤语",
+          "count": 80,
+          "centroid": [
+            0.326,
+            0.0541
+          ],
+          "intraAvgDistance": 0.1579,
+          "outliers": [
+            {
+              "id": "香港",
+              "name": "香港",
+              "distance": 0.6794
+            },
+            {
+              "id": "北海(沙田鎮海邊話)",
+              "name": "北海(沙田鎮海邊話)",
+              "distance": 0.3184
+            },
+            {
+              "id": "新田蕃田(圍頭話)",
+              "name": "新田蕃田(圍頭話)",
+              "distance": 0.3041
+            },
+            {
+              "id": "恩平(牛江)",
+              "name": "恩平(牛江)",
+              "distance": 0.2858
+            },
+            {
+              "id": "香港(市區)",
+              "name": "香港(市區)",
+              "distance": 0.2851
+            }
+          ],
+          "nearestGroup": {
+            "group": "平话土话",
+            "distance": 0.2233
+          }
+        },
+        {
+          "group": "赣语",
+          "count": 46,
+          "centroid": [
+            -0.1321,
+            -0.1104
+          ],
+          "intraAvgDistance": 0.1065,
+          "outliers": [
+            {
+              "id": "井岡山",
+              "name": "井岡山",
+              "distance": 0.2554
+            },
+            {
+              "id": "建寧(城關話)",
+              "name": "建寧(城關話)",
+              "distance": 0.2474
+            },
+            {
+              "id": "泰寧(城關話)",
+              "name": "泰寧(城關話)",
+              "distance": 0.2017
+            },
+            {
+              "id": "吉水(螺田)",
+              "name": "吉水(螺田)",
+              "distance": 0.1843
+            },
+            {
+              "id": "陽新(國和)",
+              "name": "陽新(國和)",
+              "distance": 0.1616
+            }
+          ],
+          "nearestGroup": {
+            "group": "湘语",
+            "distance": 0.1606
+          }
+        },
+        {
+          "group": "平话土话",
+          "count": 31,
+          "centroid": [
+            0.103,
+            0.0658
+          ],
+          "intraAvgDistance": 0.1021,
+          "outliers": [
+            {
+              "id": "橫縣(橫州)",
+              "name": "橫縣(橫州)",
+              "distance": 0.1922
+            },
+            {
+              "id": "寧遠(清水橋)",
+              "name": "寧遠(清水橋)",
+              "distance": 0.1907
+            },
+            {
+              "id": "田東(林逢)",
+              "name": "田東(林逢)",
+              "distance": 0.1593
+            },
+            {
+              "id": "扶綏(龍頭)",
+              "name": "扶綏(龍頭)",
+              "distance": 0.1586
+            },
+            {
+              "id": "馬山(喬利)",
+              "name": "馬山(喬利)",
+              "distance": 0.1552
+            }
+          ],
+          "nearestGroup": {
+            "group": "闽语",
+            "distance": 0.1159
+          }
+        },
+        {
+          "group": "官话",
+          "count": 45,
+          "centroid": [
+            -0.1988,
+            0.1181
+          ],
+          "intraAvgDistance": 0.0794,
+          "outliers": [
+            {
+              "id": "柳州(雒容)",
+              "name": "柳州(雒容)",
+              "distance": 0.3776
+            },
+            {
+              "id": "桂林(臨桂)",
+              "name": "桂林(臨桂)",
+              "distance": 0.3468
+            },
+            {
+              "id": "武昌",
+              "name": "武昌",
+              "distance": 0.1454
+            },
+            {
+              "id": "北京",
+              "name": "北京",
+              "distance": 0.1362
+            },
+            {
+              "id": "貴池",
+              "name": "貴池",
+              "distance": 0.103
+            }
+          ],
+          "nearestGroup": {
+            "group": "晋语",
+            "distance": 0.0449
+          }
+        },
+        {
+          "group": "闽语",
+          "count": 43,
+          "centroid": [
+            0.023,
+            -0.018
+          ],
+          "intraAvgDistance": 0.0782,
+          "outliers": [
+            {
+              "id": "建寧",
+              "name": "建寧",
+              "distance": 0.2967
+            },
+            {
+              "id": "邵武",
+              "name": "邵武",
+              "distance": 0.1831
+            },
+            {
+              "id": "中山(隆都)(珠江三角洲)",
+              "name": "中山(隆都)(珠江三角洲)",
+              "distance": 0.1821
+            },
+            {
+              "id": "晉江(青陽鎮)",
+              "name": "晉江(青陽鎮)",
+              "distance": 0.1684
+            },
+            {
+              "id": "大田",
+              "name": "大田",
+              "distance": 0.159
+            }
+          ],
+          "nearestGroup": {
+            "group": "湘语",
+            "distance": 0.0949
+          }
+        }
+      ]
+    }
+  },
+  "charDistinctiveness": {
+    "yue": {
+      "label": "粤语",
+      "totalChars": 2430,
+      "totalFrequency": 165284,
+      "topFrequency": [
+        [
+          "係",
+          10165
+        ],
+        [
+          "啊",
+          4212
+        ],
+        [
+          "唔",
+          3701
+        ],
+        [
+          "噉",
+          3689
+        ],
+        [
+          "我",
+          3368
+        ],
+        [
+          "呢",
+          2958
+        ],
+        [
+          "你",
+          2851
+        ],
+        [
+          "好",
+          2837
+        ],
+        [
+          "啲",
+          2709
+        ],
+        [
+          "佢",
+          2659
+        ],
+        [
+          "個",
+          2643
+        ],
+        [
+          "都",
+          2389
+        ],
+        [
+          "嗰",
+          2205
+        ],
+        [
+          "即",
+          2142
+        ],
+        [
+          "就",
+          1963
+        ],
+        [
+          "嘅",
+          1913
+        ],
+        [
+          "有",
+          1896
+        ],
+        [
+          "一",
+          1875
+        ],
+        [
+          "喇",
+          1702
+        ],
+        [
+          "得",
+          1518
+        ],
+        [
+          "囖",
+          1486
+        ],
+        [
+          "嘢",
+          1325
+        ],
+        [
+          "話",
+          1206
+        ],
+        [
+          "人",
+          1138
+        ],
+        [
+          "樣",
+          1119
+        ],
+        [
+          "冇",
+          1082
+        ],
+        [
+          "去",
+          1065
+        ],
+        [
+          "到",
+          1009
+        ],
+        [
+          "來",
+          988
+        ],
+        [
+          "哩",
+          975
+        ]
+      ],
+      "topDistinctive": [
+        {
+          "char": "係",
+          "freq": 10165,
+          "share": 0.0615,
+          "distinctiveness": 8643.639
+        },
+        {
+          "char": "噉",
+          "freq": 3689,
+          "share": 0.022319,
+          "distinctiveness": 4683.926
+        },
+        {
+          "char": "唔",
+          "freq": 3701,
+          "share": 0.022392,
+          "distinctiveness": 3791.255
+        },
+        {
+          "char": "啲",
+          "freq": 2709,
+          "share": 0.01639,
+          "distinctiveness": 3439.619
+        },
+        {
+          "char": "嗰",
+          "freq": 2205,
+          "share": 0.013341,
+          "distinctiveness": 2799.69
+        },
+        {
+          "char": "佢",
+          "freq": 2659,
+          "share": 0.016087,
+          "distinctiveness": 2723.844
+        },
+        {
+          "char": "啊",
+          "freq": 4212,
+          "share": 0.025483,
+          "distinctiveness": 2548.341
+        },
+        {
+          "char": "嘅",
+          "freq": 1913,
+          "share": 0.011574,
+          "distinctiveness": 2428.938
+        },
+        {
+          "char": "個",
+          "freq": 2643,
+          "share": 0.015991,
+          "distinctiveness": 2247.431
+        },
+        {
+          "char": "呢",
+          "freq": 2958,
+          "share": 0.017896,
+          "distinctiveness": 2115.938
+        },
+        {
+          "char": "你",
+          "freq": 2851,
+          "share": 0.017249,
+          "distinctiveness": 2039.398
+        },
+        {
+          "char": "我",
+          "freq": 3368,
+          "share": 0.020377,
+          "distinctiveness": 2037.705
+        },
+        {
+          "char": "囖",
+          "freq": 1486,
+          "share": 0.008991,
+          "distinctiveness": 1886.775
+        },
+        {
+          "char": "即",
+          "freq": 2142,
+          "share": 0.01296,
+          "distinctiveness": 1821.414
+        },
+        {
+          "char": "好",
+          "freq": 2837,
+          "share": 0.017164,
+          "distinctiveness": 1716.44
+        },
+        {
+          "char": "都",
+          "freq": 2389,
+          "share": 0.014454,
+          "distinctiveness": 1708.917
+        },
+        {
+          "char": "嘢",
+          "freq": 1325,
+          "share": 0.008017,
+          "distinctiveness": 1682.354
+        },
+        {
+          "char": "喇",
+          "freq": 1702,
+          "share": 0.010297,
+          "distinctiveness": 1447.267
+        },
+        {
+          "char": "哋",
+          "freq": 953,
+          "share": 0.005766,
+          "distinctiveness": 1210.025
+        },
+        {
+          "char": "喎",
+          "freq": 950,
+          "share": 0.005748,
+          "distinctiveness": 1206.216
+        },
+        {
+          "char": "就",
+          "freq": 1963,
+          "share": 0.011877,
+          "distinctiveness": 1187.653
+        },
+        {
+          "char": "咗",
+          "freq": 908,
+          "share": 0.005494,
+          "distinctiveness": 1152.888
+        },
+        {
+          "char": "有",
+          "freq": 1896,
+          "share": 0.011471,
+          "distinctiveness": 1147.116
+        },
+        {
+          "char": "一",
+          "freq": 1875,
+          "share": 0.011344,
+          "distinctiveness": 1134.411
+        },
+        {
+          "char": "誒",
+          "freq": 886,
+          "share": 0.00536,
+          "distinctiveness": 1124.955
+        },
+        {
+          "char": "話",
+          "freq": 1206,
+          "share": 0.007297,
+          "distinctiveness": 1025.502
+        },
+        {
+          "char": "哩",
+          "freq": 975,
+          "share": 0.005899,
+          "distinctiveness": 998.777
+        },
+        {
+          "char": "樣",
+          "freq": 1119,
+          "share": 0.00677,
+          "distinctiveness": 951.523
+        },
+        {
+          "char": "冇",
+          "freq": 1082,
+          "share": 0.006546,
+          "distinctiveness": 920.061
+        },
+        {
+          "char": "得",
+          "freq": 1518,
+          "share": 0.009184,
+          "distinctiveness": 918.419
+        }
+      ]
+    },
+    "min": {
+      "label": "闽语",
+      "totalChars": 5142,
+      "totalFrequency": 4588067,
+      "topFrequency": [
+        [
+          "是",
+          105070
+        ],
+        [
+          "人",
+          80220
+        ],
+        [
+          "有",
+          72503
+        ],
+        [
+          "無",
+          60379
+        ],
+        [
+          "來",
+          59536
+        ],
+        [
+          "一",
+          54710
+        ],
+        [
+          "我",
+          54394
+        ],
+        [
+          "講",
+          53736
+        ],
+        [
+          "伊",
+          51282
+        ],
+        [
+          "會",
+          42925
+        ],
+        [
+          "去",
+          38815
+        ],
+        [
+          "著",
+          35346
+        ],
+        [
+          "個",
+          33562
+        ],
+        [
+          "就",
+          33220
+        ],
+        [
+          "台",
+          32217
+        ],
+        [
+          "真",
+          31298
+        ],
+        [
+          "做",
+          30664
+        ],
+        [
+          "時",
+          29754
+        ],
+        [
+          "大",
+          29327
+        ],
+        [
+          "看",
+          26128
+        ],
+        [
+          "你",
+          25676
+        ],
+        [
+          "語",
+          23640
+        ],
+        [
+          "所",
+          23566
+        ],
+        [
+          "這",
+          23199
+        ],
+        [
+          "生",
+          21734
+        ],
+        [
+          "仔",
+          21248
+        ],
+        [
+          "到",
+          21050
+        ],
+        [
+          "好",
+          20494
+        ],
+        [
+          "出",
+          20010
+        ],
+        [
+          "家",
+          19271
+        ]
+      ],
+      "topDistinctive": [
+        {
+          "char": "是",
+          "freq": 105070,
+          "share": 0.022901,
+          "distinctiveness": 2290.071
+        },
+        {
+          "char": "無",
+          "freq": 60379,
+          "share": 0.01316,
+          "distinctiveness": 1849.593
+        },
+        {
+          "char": "來",
+          "freq": 59536,
+          "share": 0.012976,
+          "distinctiveness": 1823.77
+        },
+        {
+          "char": "人",
+          "freq": 80220,
+          "share": 0.017484,
+          "distinctiveness": 1748.449
+        },
+        {
+          "char": "講",
+          "freq": 53736,
+          "share": 0.011712,
+          "distinctiveness": 1646.098
+        },
+        {
+          "char": "有",
+          "freq": 72503,
+          "share": 0.015803,
+          "distinctiveness": 1580.252
+        },
+        {
+          "char": "伊",
+          "freq": 51282,
+          "share": 0.011177,
+          "distinctiveness": 1570.924
+        },
+        {
+          "char": "會",
+          "freq": 42925,
+          "share": 0.009356,
+          "distinctiveness": 1314.924
+        },
+        {
+          "char": "一",
+          "freq": 54710,
+          "share": 0.011924,
+          "distinctiveness": 1192.441
+        },
+        {
+          "char": "我",
+          "freq": 54394,
+          "share": 0.011856,
+          "distinctiveness": 1185.554
+        },
+        {
+          "char": "著",
+          "freq": 35346,
+          "share": 0.007704,
+          "distinctiveness": 1082.756
+        },
+        {
+          "char": "個",
+          "freq": 33562,
+          "share": 0.007315,
+          "distinctiveness": 1028.107
+        },
+        {
+          "char": "台",
+          "freq": 32217,
+          "share": 0.007022,
+          "distinctiveness": 986.905
+        },
+        {
+          "char": "時",
+          "freq": 29754,
+          "share": 0.006485,
+          "distinctiveness": 911.456
+        },
+        {
+          "char": "去",
+          "freq": 38815,
+          "share": 0.00846,
+          "distinctiveness": 845.999
+        },
+        {
+          "char": "語",
+          "freq": 23640,
+          "share": 0.005152,
+          "distinctiveness": 724.165
+        },
+        {
+          "char": "就",
+          "freq": 33220,
+          "share": 0.007241,
+          "distinctiveness": 724.052
+        },
+        {
+          "char": "所",
+          "freq": 23566,
+          "share": 0.005136,
+          "distinctiveness": 721.899
+        },
+        {
+          "char": "這",
+          "freq": 23199,
+          "share": 0.005056,
+          "distinctiveness": 710.656
+        },
+        {
+          "char": "真",
+          "freq": 31298,
+          "share": 0.006822,
+          "distinctiveness": 682.161
+        },
+        {
+          "char": "做",
+          "freq": 30664,
+          "share": 0.006683,
+          "distinctiveness": 668.342
+        },
+        {
+          "char": "你",
+          "freq": 25676,
+          "share": 0.005596,
+          "distinctiveness": 661.657
+        },
+        {
+          "char": "咱",
+          "freq": 14288,
+          "share": 0.003114,
+          "distinctiveness": 653.543
+        },
+        {
+          "char": "大",
+          "freq": 29327,
+          "share": 0.006392,
+          "distinctiveness": 639.202
+        },
+        {
+          "char": "攏",
+          "freq": 13781,
+          "share": 0.003004,
+          "distinctiveness": 630.352
+        },
+        {
+          "char": "學",
+          "freq": 19256,
+          "share": 0.004197,
+          "distinctiveness": 589.87
+        },
+        {
+          "char": "若",
+          "freq": 19178,
+          "share": 0.00418,
+          "distinctiveness": 587.481
+        },
+        {
+          "char": "國",
+          "freq": 18765,
+          "share": 0.00409,
+          "distinctiveness": 574.829
+        },
+        {
+          "char": "看",
+          "freq": 26128,
+          "share": 0.005695,
+          "distinctiveness": 569.477
+        },
+        {
+          "char": "生",
+          "freq": 21734,
+          "share": 0.004737,
+          "distinctiveness": 560.074
+        }
+      ]
+    },
+    "wu": {
+      "label": "吴语",
+      "totalChars": 728,
+      "totalFrequency": 4397,
+      "topFrequency": [
+        [
+          "的",
+          123
+        ],
+        [
+          "我",
+          115
+        ],
+        [
+          "向",
+          115
+        ],
+        [
+          "辣",
+          86
+        ],
+        [
+          "搿",
+          81
+        ],
+        [
+          "里",
+          77
+        ],
+        [
+          "浪",
+          68
+        ],
+        [
+          "看",
+          57
+        ],
+        [
+          "日",
+          55
+        ],
+        [
+          "一",
+          49
+        ],
+        [
+          "光",
+          47
+        ],
+        [
+          "辰",
+          46
+        ],
+        [
+          "了",
+          45
+        ],
+        [
+          "来",
+          44
+        ],
+        [
+          "去",
+          42
+        ],
+        [
+          "得",
+          41
+        ],
+        [
+          "伊",
+          40
+        ],
+        [
+          "小",
+          39
+        ],
+        [
+          "刚",
+          38
+        ],
+        [
+          "拉",
+          38
+        ],
+        [
+          "早",
+          37
+        ],
+        [
+          "好",
+          36
+        ],
+        [
+          "勿",
+          36
+        ],
+        [
+          "天",
+          35
+        ],
+        [
+          "有",
+          34
+        ],
+        [
+          "只",
+          32
+        ],
+        [
+          "老",
+          32
+        ],
+        [
+          "最",
+          31
+        ],
+        [
+          "是",
+          30
+        ],
+        [
+          "阿",
+          29
+        ]
+      ],
+      "topDistinctive": [
+        {
+          "char": "搿",
+          "freq": 81,
+          "share": 0.018422,
+          "distinctiveness": 3865.99
+        },
+        {
+          "char": "向",
+          "freq": 115,
+          "share": 0.026154,
+          "distinctiveness": 3092.267
+        },
+        {
+          "char": "的",
+          "freq": 123,
+          "share": 0.027974,
+          "distinctiveness": 2797.362
+        },
+        {
+          "char": "我",
+          "freq": 115,
+          "share": 0.026154,
+          "distinctiveness": 2615.42
+        },
+        {
+          "char": "辣",
+          "freq": 86,
+          "share": 0.019559,
+          "distinctiveness": 1955.879
+        },
+        {
+          "char": "浪",
+          "freq": 68,
+          "share": 0.015465,
+          "distinctiveness": 1828.471
+        },
+        {
+          "char": "刚",
+          "freq": 38,
+          "share": 0.008642,
+          "distinctiveness": 1813.674
+        },
+        {
+          "char": "里",
+          "freq": 77,
+          "share": 0.017512,
+          "distinctiveness": 1751.194
+        },
+        {
+          "char": "来",
+          "freq": 44,
+          "share": 0.010007,
+          "distinctiveness": 1694.302
+        },
+        {
+          "char": "日",
+          "freq": 55,
+          "share": 0.012509,
+          "distinctiveness": 1478.91
+        },
+        {
+          "char": "辰",
+          "freq": 46,
+          "share": 0.010462,
+          "distinctiveness": 1470.352
+        },
+        {
+          "char": "看",
+          "freq": 57,
+          "share": 0.012963,
+          "distinctiveness": 1296.338
+        },
+        {
+          "char": "蛮",
+          "freq": 27,
+          "share": 0.006141,
+          "distinctiveness": 1288.663
+        },
+        {
+          "char": "伊",
+          "freq": 40,
+          "share": 0.009097,
+          "distinctiveness": 1278.567
+        },
+        {
+          "char": "光",
+          "freq": 47,
+          "share": 0.010689,
+          "distinctiveness": 1263.796
+        },
+        {
+          "char": "学",
+          "freq": 26,
+          "share": 0.005913,
+          "distinctiveness": 1240.935
+        },
+        {
+          "char": "一",
+          "freq": 49,
+          "share": 0.011144,
+          "distinctiveness": 1114.396
+        },
+        {
+          "char": "头",
+          "freq": 27,
+          "share": 0.006141,
+          "distinctiveness": 1039.686
+        },
+        {
+          "char": "了",
+          "freq": 45,
+          "share": 0.010234,
+          "distinctiveness": 1023.425
+        },
+        {
+          "char": "拉",
+          "freq": 38,
+          "share": 0.008642,
+          "distinctiveness": 1021.793
+        },
+        {
+          "char": "早",
+          "freq": 37,
+          "share": 0.008415,
+          "distinctiveness": 994.903
+        },
+        {
+          "char": "勿",
+          "freq": 36,
+          "share": 0.008187,
+          "distinctiveness": 968.014
+        },
+        {
+          "char": "去",
+          "freq": 42,
+          "share": 0.009552,
+          "distinctiveness": 955.197
+        },
+        {
+          "char": "关",
+          "freq": 20,
+          "share": 0.004549,
+          "distinctiveness": 954.566
+        },
+        {
+          "char": "得",
+          "freq": 41,
+          "share": 0.009325,
+          "distinctiveness": 932.454
+        },
+        {
+          "char": "小",
+          "freq": 39,
+          "share": 0.00887,
+          "distinctiveness": 886.968
+        },
+        {
+          "char": "点",
+          "freq": 23,
+          "share": 0.005231,
+          "distinctiveness": 885.658
+        },
+        {
+          "char": "欢",
+          "freq": 23,
+          "share": 0.005231,
+          "distinctiveness": 885.658
+        },
+        {
+          "char": "个",
+          "freq": 27,
+          "share": 0.006141,
+          "distinctiveness": 863.033
+        },
+        {
+          "char": "只",
+          "freq": 32,
+          "share": 0.007278,
+          "distinctiveness": 860.457
+        }
+      ]
+    },
+    "chuan": {
+      "label": "官话（四川话）",
+      "totalChars": 200,
+      "totalFrequency": 975,
+      "topFrequency": [
+        [
+          "的",
+          35
+        ],
+        [
+          "了",
+          31
+        ],
+        [
+          "不",
+          29
+        ],
+        [
+          "我",
+          23
+        ],
+        [
+          "个",
+          23
+        ],
+        [
+          "就",
+          20
+        ],
+        [
+          "你",
+          19
+        ],
+        [
+          "一",
+          19
+        ],
+        [
+          "是",
+          18
+        ],
+        [
+          "这",
+          17
+        ],
+        [
+          "来",
+          16
+        ],
+        [
+          "好",
+          15
+        ],
+        [
+          "都",
+          15
+        ],
+        [
+          "得",
+          15
+        ],
+        [
+          "说",
+          14
+        ],
+        [
+          "们",
+          13
+        ],
+        [
+          "人",
+          12
+        ],
+        [
+          "子",
+          12
+        ],
+        [
+          "上",
+          12
+        ],
+        [
+          "吃",
+          12
+        ],
+        [
+          "嘛",
+          11
+        ],
+        [
+          "有",
+          11
+        ],
+        [
+          "起",
+          10
+        ],
+        [
+          "要",
+          10
+        ],
+        [
+          "天",
+          10
+        ],
+        [
+          "他",
+          9
+        ],
+        [
+          "儿",
+          8
+        ],
+        [
+          "去",
+          8
+        ],
+        [
+          "那",
+          8
+        ],
+        [
+          "到",
+          8
+        ]
+      ],
+      "topDistinctive": [
+        {
+          "char": "的",
+          "freq": 35,
+          "share": 0.035897,
+          "distinctiveness": 3589.744
+        },
+        {
+          "char": "不",
+          "freq": 29,
+          "share": 0.029744,
+          "distinctiveness": 3516.649
+        },
+        {
+          "char": "个",
+          "freq": 23,
+          "share": 0.02359,
+          "distinctiveness": 3315.456
+        },
+        {
+          "char": "了",
+          "freq": 31,
+          "share": 0.031795,
+          "distinctiveness": 3179.487
+        },
+        {
+          "char": "说",
+          "freq": 14,
+          "share": 0.014359,
+          "distinctiveness": 3013.392
+        },
+        {
+          "char": "这",
+          "freq": 17,
+          "share": 0.017436,
+          "distinctiveness": 2952.154
+        },
+        {
+          "char": "们",
+          "freq": 13,
+          "share": 0.013333,
+          "distinctiveness": 2798.15
+        },
+        {
+          "char": "来",
+          "freq": 16,
+          "share": 0.01641,
+          "distinctiveness": 2778.498
+        },
+        {
+          "char": "我",
+          "freq": 23,
+          "share": 0.02359,
+          "distinctiveness": 2358.974
+        },
+        {
+          "char": "你",
+          "freq": 19,
+          "share": 0.019487,
+          "distinctiveness": 2304.011
+        },
+        {
+          "char": "就",
+          "freq": 20,
+          "share": 0.020513,
+          "distinctiveness": 2051.282
+        },
+        {
+          "char": "一",
+          "freq": 19,
+          "share": 0.019487,
+          "distinctiveness": 1948.718
+        },
+        {
+          "char": "是",
+          "freq": 18,
+          "share": 0.018462,
+          "distinctiveness": 1846.154
+        },
+        {
+          "char": "都",
+          "freq": 15,
+          "share": 0.015385,
+          "distinctiveness": 1818.956
+        },
+        {
+          "char": "吃",
+          "freq": 12,
+          "share": 0.012308,
+          "distinctiveness": 1729.803
+        },
+        {
+          "char": "儿",
+          "freq": 8,
+          "share": 0.008205,
+          "distinctiveness": 1721.938
+        },
+        {
+          "char": "嘛",
+          "freq": 11,
+          "share": 0.011282,
+          "distinctiveness": 1585.653
+        },
+        {
+          "char": "好",
+          "freq": 15,
+          "share": 0.015385,
+          "distinctiveness": 1538.462
+        },
+        {
+          "char": "得",
+          "freq": 15,
+          "share": 0.015385,
+          "distinctiveness": 1538.462
+        },
+        {
+          "char": "人",
+          "freq": 12,
+          "share": 0.012308,
+          "distinctiveness": 1230.769
+        },
+        {
+          "char": "子",
+          "freq": 12,
+          "share": 0.012308,
+          "distinctiveness": 1230.769
+        },
+        {
+          "char": "上",
+          "freq": 12,
+          "share": 0.012308,
+          "distinctiveness": 1230.769
+        },
+        {
+          "char": "有",
+          "freq": 11,
+          "share": 0.011282,
+          "distinctiveness": 1128.205
+        },
+        {
+          "char": "给",
+          "freq": 5,
+          "share": 0.005128,
+          "distinctiveness": 1076.211
+        },
+        {
+          "char": "时",
+          "freq": 5,
+          "share": 0.005128,
+          "distinctiveness": 1076.211
+        },
+        {
+          "char": "还",
+          "freq": 6,
+          "share": 0.006154,
+          "distinctiveness": 1041.937
+        },
+        {
+          "char": "很",
+          "freq": 6,
+          "share": 0.006154,
+          "distinctiveness": 1041.937
+        },
+        {
+          "char": "点",
+          "freq": 6,
+          "share": 0.006154,
+          "distinctiveness": 1041.937
+        },
+        {
+          "char": "起",
+          "freq": 10,
+          "share": 0.010256,
+          "distinctiveness": 1025.641
+        },
+        {
+          "char": "要",
+          "freq": 10,
+          "share": 0.010256,
+          "distinctiveness": 1025.641
+        }
+      ]
+    },
+    "hakka": {
+      "label": "客家话",
+      "totalChars": 3865,
+      "totalFrequency": 33019,
+      "topFrequency": [
+        [
+          "仔",
+          480
+        ],
+        [
+          "人",
+          352
+        ],
+        [
+          "頭",
+          299
+        ],
+        [
+          "無",
+          275
+        ],
+        [
+          "毋",
+          227
+        ],
+        [
+          "大",
+          192
+        ],
+        [
+          "水",
+          186
+        ],
+        [
+          "打",
+          178
+        ],
+        [
+          "心",
+          162
+        ],
+        [
+          "食",
+          150
+        ],
+        [
+          "下",
+          136
+        ],
+        [
+          "來",
+          135
+        ],
+        [
+          "著",
+          132
+        ],
+        [
+          "一",
+          131
+        ],
+        [
+          "子",
+          128
+        ],
+        [
+          "好",
+          127
+        ],
+        [
+          "手",
+          127
+        ],
+        [
+          "天",
+          126
+        ],
+        [
+          "老",
+          119
+        ],
+        [
+          "公",
+          116
+        ],
+        [
+          "生",
+          116
+        ],
+        [
+          "家",
+          108
+        ],
+        [
+          "過",
+          106
+        ],
+        [
+          "有",
+          106
+        ],
+        [
+          "腳",
+          106
+        ],
+        [
+          "花",
+          106
+        ],
+        [
+          "得",
+          97
+        ],
+        [
+          "出",
+          97
+        ],
+        [
+          "山",
+          97
+        ],
+        [
+          "面",
+          96
+        ]
+      ],
+      "topDistinctive": [
+        {
+          "char": "仔",
+          "freq": 480,
+          "share": 0.014537,
+          "distinctiveness": 1718.751
+        },
+        {
+          "char": "頭",
+          "freq": 299,
+          "share": 0.009055,
+          "distinctiveness": 1272.704
+        },
+        {
+          "char": "無",
+          "freq": 275,
+          "share": 0.008329,
+          "distinctiveness": 1170.547
+        },
+        {
+          "char": "毋",
+          "freq": 227,
+          "share": 0.006875,
+          "distinctiveness": 1164.01
+        },
+        {
+          "char": "人",
+          "freq": 352,
+          "share": 0.010661,
+          "distinctiveness": 1066.053
+        },
+        {
+          "char": "水",
+          "freq": 186,
+          "share": 0.005633,
+          "distinctiveness": 666.016
+        },
+        {
+          "char": "食",
+          "freq": 150,
+          "share": 0.004543,
+          "distinctiveness": 638.48
+        },
+        {
+          "char": "大",
+          "freq": 192,
+          "share": 0.005815,
+          "distinctiveness": 581.483
+        },
+        {
+          "char": "心",
+          "freq": 162,
+          "share": 0.004906,
+          "distinctiveness": 580.078
+        },
+        {
+          "char": "來",
+          "freq": 135,
+          "share": 0.004089,
+          "distinctiveness": 574.632
+        },
+        {
+          "char": "著",
+          "freq": 132,
+          "share": 0.003998,
+          "distinctiveness": 561.863
+        },
+        {
+          "char": "打",
+          "freq": 178,
+          "share": 0.005391,
+          "distinctiveness": 539.084
+        },
+        {
+          "char": "過",
+          "freq": 106,
+          "share": 0.00321,
+          "distinctiveness": 451.193
+        },
+        {
+          "char": "腳",
+          "freq": 106,
+          "share": 0.00321,
+          "distinctiveness": 451.193
+        },
+        {
+          "char": "公",
+          "freq": 116,
+          "share": 0.003513,
+          "distinctiveness": 415.365
+        },
+        {
+          "char": "生",
+          "freq": 116,
+          "share": 0.003513,
+          "distinctiveness": 415.365
+        },
+        {
+          "char": "下",
+          "freq": 136,
+          "share": 0.004119,
+          "distinctiveness": 411.884
+        },
+        {
+          "char": "一",
+          "freq": 131,
+          "share": 0.003967,
+          "distinctiveness": 396.741
+        },
+        {
+          "char": "當",
+          "freq": 93,
+          "share": 0.002817,
+          "distinctiveness": 395.858
+        },
+        {
+          "char": "子",
+          "freq": 128,
+          "share": 0.003877,
+          "distinctiveness": 387.656
+        },
+        {
+          "char": "好",
+          "freq": 127,
+          "share": 0.003846,
+          "distinctiveness": 384.627
+        },
+        {
+          "char": "手",
+          "freq": 127,
+          "share": 0.003846,
+          "distinctiveness": 384.627
+        },
+        {
+          "char": "天",
+          "freq": 126,
+          "share": 0.003816,
+          "distinctiveness": 381.598
+        },
+        {
+          "char": "花",
+          "freq": 106,
+          "share": 0.00321,
+          "distinctiveness": 379.557
+        },
+        {
+          "char": "死",
+          "freq": 88,
+          "share": 0.002665,
+          "distinctiveness": 374.575
+        },
+        {
+          "char": "老",
+          "freq": 119,
+          "share": 0.003604,
+          "distinctiveness": 360.399
+        },
+        {
+          "char": "風",
+          "freq": 82,
+          "share": 0.002483,
+          "distinctiveness": 349.036
+        },
+        {
+          "char": "細",
+          "freq": 82,
+          "share": 0.002483,
+          "distinctiveness": 349.036
+        },
+        {
+          "char": "山",
+          "freq": 97,
+          "share": 0.002938,
+          "distinctiveness": 347.331
+        },
+        {
+          "char": "氣",
+          "freq": 81,
+          "share": 0.002453,
+          "distinctiveness": 344.779
+        }
+      ]
+    }
+  },
+  "phonologyStats": {
+    "totalEntries": 25336,
+    "nonEmptyCells": 734,
+    "emptyCells": 930,
+    "emptyRate": 0.559,
+    "topCells": [
+      {
+        "initial": "明",
+        "she": "山",
+        "value": 205
+      },
+      {
+        "initial": "見合",
+        "she": "山",
+        "value": 201
+      },
+      {
+        "initial": "並",
+        "she": "山",
+        "value": 196
+      },
+      {
+        "initial": "見開",
+        "she": "山",
+        "value": 191
+      },
+      {
+        "initial": "匣合",
+        "she": "山",
+        "value": 159
+      },
+      {
+        "initial": "匣開",
+        "she": "咸",
+        "value": 157
+      },
+      {
+        "initial": "來",
+        "she": "通",
+        "value": 154
+      },
+      {
+        "initial": "匣開",
+        "she": "山",
+        "value": 154
+      },
+      {
+        "initial": "來開",
+        "she": "梗",
+        "value": 151
+      },
+      {
+        "initial": "並",
+        "she": "臻",
+        "value": 149
+      },
+      {
+        "initial": "幫",
+        "she": "山",
+        "value": 147
+      },
+      {
+        "initial": "影開",
+        "she": "咸",
+        "value": 147
+      }
+    ],
+    "topShe": [
+      {
+        "name": "山",
+        "value": 3790
+      },
+      {
+        "name": "止",
+        "value": 2623
+      },
+      {
+        "name": "蟹",
+        "value": 2293
+      },
+      {
+        "name": "臻",
+        "value": 2108
+      },
+      {
+        "name": "咸",
+        "value": 1959
+      },
+      {
+        "name": "梗",
+        "value": 1938
+      },
+      {
+        "name": "遇",
+        "value": 1811
+      },
+      {
+        "name": "通",
+        "value": 1762
+      }
+    ],
+    "topInitials": [
+      {
+        "name": "來開",
+        "value": 1134
+      },
+      {
+        "name": "並",
+        "value": 1118
+      },
+      {
+        "name": "明",
+        "value": 1110
+      },
+      {
+        "name": "見開",
+        "value": 1052
+      },
+      {
+        "name": "幫",
+        "value": 861
+      },
+      {
+        "name": "影開",
+        "value": 827
+      },
+      {
+        "name": "定開",
+        "value": 678
+      },
+      {
+        "name": "見合",
+        "value": 667
+      }
+    ]
+  },
+  "chordStats": {
+    "topPairs": [
+      {
+        "source": "吴语",
+        "target": "客家话",
+        "value": 5002
+      },
+      {
+        "source": "官话",
+        "target": "客家话",
+        "value": 4706
+      },
+      {
+        "source": "吴语",
+        "target": "官话",
+        "value": 4379
+      },
+      {
+        "source": "官话",
+        "target": "标准语",
+        "value": 4342
+      },
+      {
+        "source": "客家话",
+        "target": "湘语",
+        "value": 3444
+      },
+      {
+        "source": "官话",
+        "target": "湘语",
+        "value": 3427
+      },
+      {
+        "source": "官话",
+        "target": "赣语",
+        "value": 3355
+      },
+      {
+        "source": "客家话",
+        "target": "赣语",
+        "value": 3355
+      },
+      {
+        "source": "湘语",
+        "target": "赣语",
+        "value": 3355
+      },
+      {
+        "source": "吴语",
+        "target": "湘语",
+        "value": 3207
+      },
+      {
+        "source": "吴语",
+        "target": "赣语",
+        "value": 3126
+      },
+      {
+        "source": "客家话",
+        "target": "标准语",
+        "value": 2915
+      },
+      {
+        "source": "吴语",
+        "target": "标准语",
+        "value": 2846
+      },
+      {
+        "source": "标准语",
+        "target": "湘语",
+        "value": 1972
+      },
+      {
+        "source": "标准语",
+        "target": "赣语",
+        "value": 1921
+      }
+    ],
+    "pairCount": 55
+  },
+  "clusterStats": {
+    "leafGroups": [
+      {
+        "group": "粤语",
+        "count": 80
+      },
+      {
+        "group": "客家话",
+        "count": 59
+      },
+      {
+        "group": "吴语",
+        "count": 57
+      },
+      {
+        "group": "赣语",
+        "count": 46
+      },
+      {
+        "group": "官话",
+        "count": 45
+      },
+      {
+        "group": "闽语",
+        "count": 43
+      },
+      {
+        "group": "晋语",
+        "count": 33
+      },
+      {
+        "group": "平话土话",
+        "count": 31
+      },
+      {
+        "group": "徽语",
+        "count": 6
+      },
+      {
+        "group": "湘语",
+        "count": 6
+      }
+    ],
+    "mixedBranches": [
+      {
+        "name": "cluster",
+        "size": 406,
+        "dominantGroup": "粤语",
+        "purity": 0.197,
+        "groups": [
+          {
+            "group": "粤语",
+            "count": 80
+          },
+          {
+            "group": "客家话",
+            "count": 59
+          },
+          {
+            "group": "吴语",
+            "count": 57
+          },
+          {
+            "group": "赣语",
+            "count": 46
+          },
+          {
+            "group": "官话",
+            "count": 45
+          }
+        ],
+        "distance": 5.0359
+      },
+      {
+        "name": "cluster",
+        "size": 335,
+        "dominantGroup": "客家话",
+        "purity": 0.17,
+        "groups": [
+          {
+            "group": "客家话",
+            "count": 57
+          },
+          {
+            "group": "吴语",
+            "count": 57
+          },
+          {
+            "group": "赣语",
+            "count": 46
+          },
+          {
+            "group": "官话",
+            "count": 45
+          },
+          {
+            "group": "闽语",
+            "count": 42
+          }
+        ],
+        "distance": 4.2029
+      },
+      {
+        "name": "cluster",
+        "size": 260,
+        "dominantGroup": "吴语",
+        "purity": 0.219,
+        "groups": [
+          {
+            "group": "吴语",
+            "count": 57
+          },
+          {
+            "group": "官话",
+            "count": 45
+          },
+          {
+            "group": "闽语",
+            "count": 40
+          },
+          {
+            "group": "晋语",
+            "count": 33
+          },
+          {
+            "group": "平话土话",
+            "count": 30
+          }
+        ],
+        "distance": 3.697
+      },
+      {
+        "name": "cluster",
+        "size": 229,
+        "dominantGroup": "吴语",
+        "purity": 0.223,
+        "groups": [
+          {
+            "group": "吴语",
+            "count": 51
+          },
+          {
+            "group": "闽语",
+            "count": 40
+          },
+          {
+            "group": "晋语",
+            "count": 33
+          },
+          {
+            "group": "平话土话",
+            "count": 30
+          },
+          {
+            "group": "官话",
+            "count": 28
+          }
+        ],
+        "distance": 3.6203
+      },
+      {
+        "name": "cluster",
+        "size": 157,
+        "dominantGroup": "闽语",
+        "purity": 0.255,
+        "groups": [
+          {
+            "group": "闽语",
+            "count": 40
+          },
+          {
+            "group": "吴语",
+            "count": 32
+          },
+          {
+            "group": "平话土话",
+            "count": 30
+          },
+          {
+            "group": "客家话",
+            "count": 17
+          },
+          {
+            "group": "赣语",
+            "count": 11
+          }
+        ],
+        "distance": 2.8833
+      },
+      {
+        "name": "cluster",
+        "size": 79,
+        "dominantGroup": "吴语",
+        "purity": 0.405,
+        "groups": [
+          {
+            "group": "吴语",
+            "count": 32
+          },
+          {
+            "group": "客家话",
+            "count": 12
+          },
+          {
+            "group": "赣语",
+            "count": 9
+          },
+          {
+            "group": "官话",
+            "count": 5
+          },
+          {
+            "group": "徽语",
+            "count": 5
+          }
+        ],
+        "distance": 2.3173
+      },
+      {
+        "name": "cluster",
+        "size": 78,
+        "dominantGroup": "闽语",
+        "purity": 0.449,
+        "groups": [
+          {
+            "group": "闽语",
+            "count": 35
+          },
+          {
+            "group": "平话土话",
+            "count": 25
+          },
+          {
+            "group": "粤语",
+            "count": 6
+          },
+          {
+            "group": "客家话",
+            "count": 5
+          },
+          {
+            "group": "湘语",
+            "count": 3
+          }
+        ],
+        "distance": 2.6069
+      },
+      {
+        "name": "cluster",
+        "size": 75,
+        "dominantGroup": "客家话",
+        "purity": 0.533,
+        "groups": [
+          {
+            "group": "客家话",
+            "count": 40
+          },
+          {
+            "group": "赣语",
+            "count": 28
+          },
+          {
+            "group": "粤语",
+            "count": 5
+          },
+          {
+            "group": "闽语",
+            "count": 2
+          }
+        ],
+        "distance": 3.2583
+      },
+      {
+        "name": "cluster",
+        "size": 72,
+        "dominantGroup": "晋语",
+        "purity": 0.444,
+        "groups": [
+          {
+            "group": "晋语",
+            "count": 32
+          },
+          {
+            "group": "官话",
+            "count": 21
+          },
+          {
+            "group": "吴语",
+            "count": 19
+          }
+        ],
+        "distance": 3.3702
+      },
+      {
+        "name": "cluster",
+        "size": 68,
+        "dominantGroup": "平话土话",
+        "purity": 0.368,
+        "groups": [
+          {
+            "group": "平话土话",
+            "count": 25
+          },
+          {
+            "group": "闽语",
+            "count": 25
+          },
+          {
+            "group": "粤语",
+            "count": 6
+          },
+          {
+            "group": "客家话",
+            "count": 5
+          },
+          {
+            "group": "湘语",
+            "count": 3
+          }
+        ],
+        "distance": 2.3224
+      },
+      {
+        "name": "cluster",
+        "size": 67,
+        "dominantGroup": "吴语",
+        "purity": 0.299,
+        "groups": [
+          {
+            "group": "吴语",
+            "count": 20
+          },
+          {
+            "group": "客家话",
+            "count": 12
+          },
+          {
+            "group": "赣语",
+            "count": 9
+          },
+          {
+            "group": "官话",
+            "count": 5
+          },
+          {
+            "group": "徽语",
+            "count": 5
+          }
+        ],
+        "distance": 2.2039
+      },
+      {
+        "name": "cluster",
+        "size": 60,
+        "dominantGroup": "闽语",
+        "purity": 0.417,
+        "groups": [
+          {
+            "group": "闽语",
+            "count": 25
+          },
+          {
+            "group": "平话土话",
+            "count": 17
+          },
+          {
+            "group": "粤语",
+            "count": 6
+          },
+          {
+            "group": "客家话",
+            "count": 5
+          },
+          {
+            "group": "湘语",
+            "count": 3
+          }
+        ],
+        "distance": 2.1117
+      }
+    ],
+    "leafCount": 406
+  }
+}
