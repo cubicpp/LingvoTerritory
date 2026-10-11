@@ -66,5 +66,4 @@ npm run dev
 - [PHOIBLE](https://github.com/phoible/dev)：音系资料。
 - [Glottolog](https://glottolog.org/)：语言分类资料。
 - [Unicode Unihan 数据库](https://www.unicode.org/charts/unihan.html)：汉字及跨语言读音资料。
-- [中国语言地图集（第二版）](https://www.sinolingua.com.cn/)：方言分类参考。
 - [阿里云 DataV 地理数据](https://datav.aliyun.com/portal/school/atlas/area_selector)：地图边界数据。
